@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Michael Healy</title>
+    <title>Personal Blog on Michael Healy</title>
     <link>http://michaelhealy.space/blog/</link>
-    <description>Recent content in Blogs on Michael Healy</description>
+    <description>Recent content in Personal Blog on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
     <managingEditor>mhealy2011@gmail.com (Michael Healy)</managingEditor>
     <webMaster>mhealy2011@gmail.com (Michael Healy)</webMaster>
     <lastBuildDate>Sun, 21 May 2017 00:16:23 -0400</lastBuildDate>

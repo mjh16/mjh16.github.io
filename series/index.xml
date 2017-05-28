@@ -5,12 +5,21 @@
     <link>http://michaelhealy.space/series/</link>
     <description>Recent content in Series on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
     <managingEditor>mhealy2011@gmail.com (Michael Healy)</managingEditor>
     <webMaster>mhealy2011@gmail.com (Michael Healy)</webMaster>
+    <lastBuildDate>Sat, 27 May 2017 20:18:12 -0400</lastBuildDate>
     
 	<atom:link href="http://michaelhealy.space/series/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://michaelhealy.space/series/</link>
+      <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
+      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      <guid>http://michaelhealy.space/series/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
