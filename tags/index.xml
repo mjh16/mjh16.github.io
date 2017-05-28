@@ -5,7 +5,6 @@
     <link>http://michaelhealy.space/tags/</link>
     <description>Recent content in Tags on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
     <managingEditor>mhealy2011@gmail.com (Michael Healy)</managingEditor>
     <webMaster>mhealy2011@gmail.com (Michael Healy)</webMaster>
     <lastBuildDate>Sun, 21 May 2017 00:16:23 -0400</lastBuildDate>
@@ -23,11 +22,29 @@
     </item>
     
     <item>
+      <title>Creative Non Fiction</title>
+      <link>http://michaelhealy.space/tags/creative-non-fiction/</link>
+      <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
+      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      <guid>http://michaelhealy.space/tags/creative-non-fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Easy</title>
       <link>http://michaelhealy.space/tags/easy/</link>
       <pubDate>Fri, 13 Mar 2015 16:54:11 +0000</pubDate>
       <author>mhealy2011@gmail.com (Michael Healy)</author>
       <guid>http://michaelhealy.space/tags/easy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essay</title>
+      <link>http://michaelhealy.space/tags/essay/</link>
+      <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
+      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      <guid>http://michaelhealy.space/tags/essay/</guid>
       <description></description>
     </item>
     
@@ -122,6 +139,15 @@
     </item>
     
     <item>
+      <title>Running</title>
+      <link>http://michaelhealy.space/tags/running/</link>
+      <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
+      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      <guid>http://michaelhealy.space/tags/running/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Salad</title>
       <link>http://michaelhealy.space/tags/salad/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
@@ -145,6 +171,15 @@
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       <author>mhealy2011@gmail.com (Michael Healy)</author>
       <guid>http://michaelhealy.space/tags/vegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>http://michaelhealy.space/tags/video/</link>
+      <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
+      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      <guid>http://michaelhealy.space/tags/video/</guid>
       <description></description>
     </item>
     
