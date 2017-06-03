@@ -5,8 +5,7 @@
     <link>http://michaelhealy.space/tags/newurl/</link>
     <description>Recent content in Newurl on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>mhealy2011@gmail.com (Michael Healy)</managingEditor>
-    <webMaster>mhealy2011@gmail.com (Michael Healy)</webMaster>
+    <language>en-US</language>
     <lastBuildDate>Sun, 21 May 2017 00:16:23 -0400</lastBuildDate>
     
 	<atom:link href="http://michaelhealy.space/tags/newurl/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +13,10 @@
     
     <item>
       <title>A New Space and an Update</title>
-      <link>http://michaelhealy.space/blog/hugo/</link>
+      <link>http://michaelhealy.space/blog/a-new-space-and-an-update/</link>
       <pubDate>Sun, 21 May 2017 00:16:23 -0400</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
-      <guid>http://michaelhealy.space/blog/hugo/</guid>
+      
+      <guid>http://michaelhealy.space/blog/a-new-space-and-an-update/</guid>
       <description>So, there have obviously been some changes here. There are a number of reasons for it, and I will be updating with a longer post eventually. But, there are a number of reasons for the shift, all of which should be good (at least for me, and that&amp;rsquo;s what&amp;rsquo;s important).</description>
     </item>
     

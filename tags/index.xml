@@ -5,8 +5,7 @@
     <link>http://michaelhealy.space/tags/</link>
     <description>Recent content in Tags on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>mhealy2011@gmail.com (Michael Healy)</managingEditor>
-    <webMaster>mhealy2011@gmail.com (Michael Healy)</webMaster>
+    <language>en-US</language>
     <lastBuildDate>Sun, 21 May 2017 00:16:23 -0400</lastBuildDate>
     
 	<atom:link href="http://michaelhealy.space/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +15,7 @@
       <title>Blog Migration</title>
       <link>http://michaelhealy.space/tags/blog-migration/</link>
       <pubDate>Sun, 21 May 2017 00:16:23 -0400</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/blog-migration/</guid>
       <description></description>
     </item>
@@ -25,7 +24,7 @@
       <title>Creative Non Fiction</title>
       <link>http://michaelhealy.space/tags/creative-non-fiction/</link>
       <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/creative-non-fiction/</guid>
       <description></description>
     </item>
@@ -34,7 +33,7 @@
       <title>Easy</title>
       <link>http://michaelhealy.space/tags/easy/</link>
       <pubDate>Fri, 13 Mar 2015 16:54:11 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/easy/</guid>
       <description></description>
     </item>
@@ -43,7 +42,7 @@
       <title>Essay</title>
       <link>http://michaelhealy.space/tags/essay/</link>
       <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/essay/</guid>
       <description></description>
     </item>
@@ -52,7 +51,7 @@
       <title>Fermentation</title>
       <link>http://michaelhealy.space/tags/fermentation/</link>
       <pubDate>Tue, 07 Apr 2015 21:22:32 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/fermentation/</guid>
       <description></description>
     </item>
@@ -61,7 +60,7 @@
       <title>Garden</title>
       <link>http://michaelhealy.space/tags/garden/</link>
       <pubDate>Tue, 07 Apr 2015 21:22:32 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/garden/</guid>
       <description></description>
     </item>
@@ -70,7 +69,7 @@
       <title>Hotsauce</title>
       <link>http://michaelhealy.space/tags/hotsauce/</link>
       <pubDate>Tue, 07 Apr 2015 21:22:32 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/hotsauce/</guid>
       <description></description>
     </item>
@@ -79,7 +78,7 @@
       <title>Kale</title>
       <link>http://michaelhealy.space/tags/kale/</link>
       <pubDate>Fri, 13 Mar 2015 16:54:11 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/kale/</guid>
       <description></description>
     </item>
@@ -88,7 +87,7 @@
       <title>Lunch</title>
       <link>http://michaelhealy.space/tags/lunch/</link>
       <pubDate>Fri, 13 Mar 2015 16:54:11 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/lunch/</guid>
       <description></description>
     </item>
@@ -97,7 +96,7 @@
       <title>Minimal Computing</title>
       <link>http://michaelhealy.space/tags/minimal-computing/</link>
       <pubDate>Sun, 21 May 2017 00:16:23 -0400</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/minimal-computing/</guid>
       <description></description>
     </item>
@@ -106,7 +105,7 @@
       <title>Newurl</title>
       <link>http://michaelhealy.space/tags/newurl/</link>
       <pubDate>Sun, 21 May 2017 00:16:23 -0400</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/newurl/</guid>
       <description></description>
     </item>
@@ -115,7 +114,7 @@
       <title>Peppers</title>
       <link>http://michaelhealy.space/tags/peppers/</link>
       <pubDate>Tue, 07 Apr 2015 21:22:32 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/peppers/</guid>
       <description></description>
     </item>
@@ -124,7 +123,7 @@
       <title>Potluck</title>
       <link>http://michaelhealy.space/tags/potluck/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/potluck/</guid>
       <description></description>
     </item>
@@ -133,7 +132,7 @@
       <title>Prep</title>
       <link>http://michaelhealy.space/tags/prep/</link>
       <pubDate>Fri, 13 Mar 2015 16:54:11 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/prep/</guid>
       <description></description>
     </item>
@@ -142,7 +141,7 @@
       <title>Running</title>
       <link>http://michaelhealy.space/tags/running/</link>
       <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/running/</guid>
       <description></description>
     </item>
@@ -151,7 +150,7 @@
       <title>Salad</title>
       <link>http://michaelhealy.space/tags/salad/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/salad/</guid>
       <description></description>
     </item>
@@ -160,7 +159,7 @@
       <title>Turkey</title>
       <link>http://michaelhealy.space/tags/turkey/</link>
       <pubDate>Fri, 13 Mar 2015 16:54:11 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/turkey/</guid>
       <description></description>
     </item>
@@ -169,7 +168,7 @@
       <title>Vegan</title>
       <link>http://michaelhealy.space/tags/vegan/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/vegan/</guid>
       <description></description>
     </item>
@@ -178,7 +177,7 @@
       <title>Video</title>
       <link>http://michaelhealy.space/tags/video/</link>
       <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/video/</guid>
       <description></description>
     </item>
@@ -187,7 +186,7 @@
       <title>Wrap</title>
       <link>http://michaelhealy.space/tags/wrap/</link>
       <pubDate>Fri, 13 Mar 2015 16:54:11 +0000</pubDate>
-      <author>mhealy2011@gmail.com (Michael Healy)</author>
+      
       <guid>http://michaelhealy.space/tags/wrap/</guid>
       <description></description>
     </item>
