@@ -163,12 +163,12 @@
   
   <url>
     <loc>http://michaelhealy.space/compositions/</loc>
+    <lastmod>2017-05-27T20:18:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://michaelhealy.space/compositions/</loc>
-    <lastmod>2017-05-27T20:18:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -209,10 +209,6 @@
   </url>
   
   <url>
-    <loc>http://michaelhealy.space/home/</loc>
-  </url>
-  
-  <url>
     <loc>http://michaelhealy.space/</loc>
   </url>
   
@@ -229,14 +225,14 @@
   </url>
   
   <url>
-    <loc>http://michaelhealy.space/tags/lunch/</loc>
-    <lastmod>2015-03-13T16:54:11+00:00</lastmod>
+    <loc>http://michaelhealy.space/meals/lunch/</loc>
+    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://michaelhealy.space/meals/lunch/</loc>
-    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+    <loc>http://michaelhealy.space/tags/lunch/</loc>
+    <lastmod>2015-03-13T16:54:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
