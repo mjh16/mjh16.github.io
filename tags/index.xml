@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 May 2017 00:16:23 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://michaelhealy.space/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://michaelhealy.space/tags/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelhealy.space/tags/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blog Migration</title>
