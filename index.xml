@@ -1,282 +1,605 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael Healy</title>
-    <link>http://michaelhealy.space/</link>
-    <description>Recent content on Michael Healy</description>
+    <title>Michael Healy on Michael Healy</title>
+    <link>https://michaelhealy.space/</link>
+    <description>Recent content in Michael Healy on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Thu, 06 Jul 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://michaelhealy.space/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Chipotle Red Potato Salad</title>
-      <link>http://michaelhealy.space/recipes/chipotle-red-potato-salad/</link>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/recipes/chipotle-red-potato-salad/</guid>
-      <description>Ingredient List    Quantity Ingredient     5 lb Red Potatoes, boiled, cooled, cut into pieces   1 1&amp;frasl;2 cups Whole milk greek yogurt   4 Canned chipotles in adobo sauce, finely diced   2 teaspoons Oregano   2 teaspoons Cumin   2 Limes juiced   1 Red onion sliced thin   1 Green bell pepper, chopped   1 1&amp;frasl;2 Cups Grape or cherry tomatoes, cut in half   To taste Salt and pepper    Instructions  Wisk together lime juice, cumin, oregano, and chipotles in a small bowl.</description>
-    </item>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Michael Healy</copyright>
+    <lastBuildDate>Fri, 12 May 2017 08:35:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Why I run</title>
-      <link>http://michaelhealy.space/compositions/why-i-run/</link>
-      <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
+      <title>Letting the Language Lead: A Semester of Composition Theory</title>
+      <link>https://michaelhealy.space/project/eportfolios/comptheory/reflection/</link>
+      <pubDate>Sun, 16 Apr 2017 03:16:48 +0000</pubDate>
       
-      <guid>http://michaelhealy.space/compositions/why-i-run/</guid>
-      <description>This is a video essay that explores the reasons why I run and specifically why I really enjoy trail running. This was done as a part of the requirements for a CNF in digital environments class, but I quite like the outcome and want to continue working with it.
-  </description>
-    </item>
-    
-    <item>
-      <title>A New Space and an Update</title>
-      <link>http://michaelhealy.space/blog/a-new-space-and-an-update/</link>
-      <pubDate>Sun, 21 May 2017 00:16:23 -0400</pubDate>
-      
-      <guid>http://michaelhealy.space/blog/a-new-space-and-an-update/</guid>
-      <description>So, there have obviously been some changes here. There are a number of reasons for it, and I will be updating with a longer post eventually. But, there are a number of reasons for the shift, all of which should be good (at least for me, and that&amp;rsquo;s what&amp;rsquo;s important).</description>
-    </item>
-    
-    <item>
-      <title>Barley, Corn, Black Bean, Kale, and Chipotle Salad</title>
-      <link>http://michaelhealy.space/recipes/blackbeansalad/</link>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/recipes/blackbeansalad/</guid>
-      <description>I often find myself cooking for myself and the family. One of the largest adjustments over the past year has been my schedule as a graduate student and teaching assistant. This has led to me having odd hours and not being around as often to cook. Out of this I have made a number of recipes that are quick, easy, flavorful, and pack well as leftovers. This is a barley salad that I made to have as a cold option for lunches throughout a school week.</description>
-    </item>
-    
-    <item>
-      <title>Well, I found an Old Post</title>
-      <link>http://michaelhealy.space/blog/well-i-found-an-old-post/</link>
-      <pubDate>Sat, 01 Apr 2017 03:30:37 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/blog/well-i-found-an-old-post/</guid>
-      <description>I found an old post sitting in drafts, and it made me realize that I have really been meaning to keep up with this whole blog thing, at least somewhat regularly. I mean, it is part of the reason that I have the site, right? It is a good place to keep my various digital projects, and I need to upload a CV, but I want it to be more than just that sort of digital clearinghouse.</description>
-    </item>
-    
-    <item>
-      <title>Second Semester Go!</title>
-      <link>http://michaelhealy.space/2017/01/second-semester-go/</link>
-      <pubDate>Tue, 10 Jan 2017 04:15:15 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/2017/01/second-semester-go/</guid>
-      <description>Well we have officially started our second semester at FSU. We had a wonderful time driving home (despite the 48 hours and 2400 miles in the car), and it was really nice to be able to see everyone. We even went to Krug Park 3 times! And ate La Casa 🙂
-&amp;nbsp;</description>
-    </item>
-    
-    <item>
-      <title>Frameworks and schemas </title>
-      <link>http://michaelhealy.space/2016/09/frameworks-and-schemas/</link>
-      <pubDate>Sun, 18 Sep 2016 04:06:09 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/2016/09/frameworks-and-schemas/</guid>
-      <description>&amp;nbsp;Perlman Schema</description>
-    </item>
-    
-    <item>
-      <title>We’re Here!</title>
-      <link>http://michaelhealy.space/2016/09/were-here/</link>
-      <pubDate>Sat, 10 Sep 2016 04:06:13 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/2016/09/were-here/</guid>
-      <description>Well, we&amp;#8217;ve moved to Tallahassee. In fact, we&amp;#8217;ve been in our apartment a bit over a month now. It&amp;#8217;s been quite the adventure, right pup?Whatever dude.
-In that time we&amp;#8217;ve gotten to meet our great cohort, start teaching, find new places, and then this happened:
+      <guid>https://michaelhealy.space/project/eportfolios/comptheory/reflection/</guid>
+      <description>
 
-Well we are all doing alright, although we still have to settle into life here in Florida. It&amp;#8217;s going to be a good adventure, I&amp;#8217;m just not entirely sure what it will all look like yet.</description>
+&lt;h3 id=&#34;re-inhabiting-composition&#34;&gt;Re-inhabiting Composition&lt;/h3&gt;
+
+&lt;p&gt;I’ve been re-inhabiting the &lt;a href=&#34;https://michaelhealy.space/project/eportfolios/comptheory/perspectives&#34;&gt;perspectives project&lt;/a&gt; this last weekend, while also working on this reflection and having various levels of success baking bread. I was working with Jessi through the unedited video of the interview to transcribe and code a section of it for research methods. As I was listening again to what Ned Stuckey-French had to say about composition, composing, writing, tools, technologies, and teaching, there was a phrase that he used, “letting the language lead”, that stood out. He was talking about language in a very craft focused way, working from John D’Agata and the essay, but it seems so very central to my own work and interests. At the core of composition is language inscribed, and an activity on a page. A pushing around of graphite or bits to explore and share ourselves through language, and hoping that it leads to sometimes to someone somewhere.&lt;/p&gt;
+
+&lt;p&gt;Letting the language lead. It all seems very lyrical, impressionistic, and idealistic, but I’m going to run with it. This moment represents a large revision in this reflection, of really letting the language lead towards what I&amp;rsquo;m reflecting on and trying to synthesize. I see it arising out of the perspectives project, but also as emerging this semester as I’ve been re-inhabiting composition theory. We know that composition is intentionally doing something with language as a representational system that is social and epistemological in nature. Language leads people down the pathways and interconnections of activities and networks. Communities of practice develop out of the coalescing of language around an activity, and discourse communities take this further by codify language into genres and knowledge. But, at its core, language leads people to others and their ideas. They then react, respond, and perhaps even see the world differently. And here is the core of what we know about composition: That it is a way of inscribing meaning and doing work through language.&lt;/p&gt;
+
+&lt;h3 id=&#34;looking-back&#34;&gt;Looking Back&lt;/h3&gt;
+
+&lt;h4 id=&#34;what-do-we-know-about-composing&#34;&gt;What do we know about composing?&lt;/h4&gt;
+
+&lt;p&gt;So, to take this a little further. We know that composition is the inscription, via language (broadly), onto something (loosely), with the intention of affecting someone or something else at a subsequent time and/or space (and if you take a cosmic view, they are both always shifting and changing). So, in order for a material inscription (even a digital composition starts with a person at an interface) to be considered composition it needs to be intentional, it needs to be rhetorical, and it needs to circulate to an audience. These seem to be things that I understand that we know about composition as I stand here near the end of my second semester here at Florida State.&lt;/p&gt;
+
+&lt;p&gt;We know from research that composition has a history that is multidimensional, layered, responses to different exigences, and is highly contextual. The individual selections and reflections, &lt;a href=&#34;https://michaelhealy.space/project/eportfolios/comptheory/selection1&#34;&gt;a SRR on history&lt;/a&gt;, &lt;a href=&#34;https://michaelhealy.space/project/eportfolios/comptheory/selection2&#34;&gt;an SRR on WAC/WID/WEC&lt;/a&gt;, and &lt;a href=&#34;https://michaelhealy.space/project/eportfolios/comptheory/selection3&#34;&gt;a blog post&lt;/a&gt;, all had a focus on the history of composition in some way. Skinnel’s approach in “Conceding Composition,” looked at how the composition program developed alongside Arizona State University as a means of legitimizing the work of the university. Composition and writing are seen as an important aspect of literate and university discourses, and examining this and similar histories sees how the field and discipline evolved alongside. It also allows for the narratives and stories to be interwoven, and to see contextually how and why they developed. This historical narrative gives additional context and framing to Emig, Shaugnessey and Elbow, in how they were developing theories and research out shifting and changing literacy contexts.&lt;/p&gt;
+
+&lt;p&gt;It was also interesting to think of literacy and history alongside the development of WAC/WID programs. While I had a difficulty with Condon and Rutz, finding their exploration of taxonomies at times reductive, putting it together with Russel, and in the contextual historical framework, helps to see how composition has evolved through people responding differently in their own contexts. So, in these ways, I see my reflections and selections illuminating the narratives, stories, and histories of composition. They reflect a naming of what we know, and where that knowledge came from. They provide important antecedents. I find this interesting, and it was not at all intentional. It does follow from my own interests of wanting to get in and tinker with the stuff of composition and writing, to see what the system is and to suppose how it may tick. I tend to find histories compelling in the narratives and stories they tell, and how they perform important rhetorical work in arguing for an antecedent and need for attention on an issue or need.&lt;/p&gt;
+
+&lt;h3 id=&#34;looking-across&#34;&gt;Looking Across&lt;/h3&gt;
+
+&lt;h4 id=&#34;how-do-we-know-it&#34;&gt;How do we know it?&lt;/h4&gt;
+
+&lt;p&gt;We know this from inquiry. From asking each other and our artifacts about their purposes, about their audiences, about their circulations, and about their reasons for turning to inscribed language to do something. I found the readings that we did, especially in the contemporary research from Shipka, Flash, and Roozen (really much of &lt;em&gt;A Rhetoric of Reflection&lt;/em&gt; as well as &lt;em&gt;Naming What We Know&lt;/em&gt;), as instructive for examining how and what we know about composition, and for making arguments for why it is important. These inquiry and reflective projects let us see something about how composition is operating in the world, and moves it beyond just our classrooms or academic contexts. Through the study of composition, we know a lot more about how and why people engage with language, the processes by which they compose, the materials and practices used, and how best to approach the teaching of the content and context of composition. We also know that we have a lot yet to learn.&lt;/p&gt;
+
+&lt;p&gt;In this way, I found both the &lt;a href=&#34;https://michaelhealy.space/project/eportfolios/comptheory/triptych&#34;&gt;Triptych&lt;/a&gt; and &lt;a href=&#34;https://michaelhealy.space/project/eportfolios/comptheory/perspectives&#34;&gt;Perspectives projects&lt;/a&gt; useful in seeing how composition is social and rhetorical, and how it interacts out in the world to do work. We also know that composition represents, reproduces, and shares identities and ideologies. It provides a means for people to situate themselves in relationship to discourse and to exert some power upon it. It can also be used epistemologically within this same system. We know this because we can see, and study, and teach, how language has power and creates changes in the material world.&lt;/p&gt;
+
+&lt;p&gt;I saw interesting connections between the &lt;a href=&#34;https://michaelhealy.space/project/eportfolios/comptheory/triptych&#34;&gt;Triptych, in which I looked at a SpaceX hosted webcast, the homebrewing community, and Malea Powell’s CCCC address&lt;/a&gt; as having interesting connections to Pamela Flash’s WEC reflective practices. All three investigations, and the reflective overlay, as “questions about how writing is being defined, and about the stability and implications of those definitions” (Flash Kindle Locations 5380-5382). Through a multiple look at composition practices in-situ, we are able to articulate how and what we know. It is interesting to look back on this project now and see the networks, discourse practices, the ways in which people are brought into the conversation, the multivoicing, and contextual nature of it. They represent some of Brandt and Clinton’s “glocal,” along with a conventionalized push on social conventions as explored in Devitt and Miller.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://michaelhealy.space/project/eportfolios/comptheory/perspectives&#34;&gt;The perspectives project&lt;/a&gt; let me see how someone within English, but with a different focus, connect a large amount of composition theory to his own practices. I was really interested in Ned Stuckey-French&amp;rsquo;s articulation of Macrorie, Elbow, and Yancey as important influences in his own writing and in his teaching/learning from students. Though not articulated in the same terms, he had a clear understanding of the social, cognitive, and rhetorical nature of composition. It was also interesting to see a different perspective on composition, and what that looks like in terms of the process of production. In looking back through the project now, I find it interesting how much of the process is the same, regardless of what the project is that he is working on, and how he adapts to the needs of his audience or of the text. I see connections to both Russel and Yañez in how the learning and writing is “social in origin, and human activity as collective.” It illuminated how much of composition is interwoven and interconnected, and how effective composers realize and utilize that knowledge and those connections.&lt;/p&gt;
+
+&lt;p&gt;Additionally, I continue to see, and I’m working to better articulate, connections between composition and creative writing. One of the clearest connections are to creative nonfiction, especially with its very rhetorical foundations of truth telling. I think this was why I was drawn to both Doug Hesse and Ned Stuckey-French for the perspectives project. But, I see a continuing outward circling of composition being an important was of situating oneself in the world, and that creative writing is a way of responding out of that situating. It exists within different social contexts and conventions, but it still looks to mediate activity between people through language.&lt;/p&gt;
+
+&lt;p&gt;I have also continued to see connections to the materiality and technology of writing. I found and continue to find Shipka’s work intriguing, and materiality is why I chose the &lt;a href=&#34;https://digitalscholars.wordpress.com/2017/02/12/look-at-all-this-stuff-on-playing-printing-and-virtual-reality-in-the-digital-humanities/&#34; target=&#34;_blank&#34;&gt;Digital Scholars blog post&lt;/a&gt; for an outside artifact. I chose it as it was a response to digital technologies that were about making and embodiment. I see that we have often forgotten about, or relegated to lore, the physical realities of writing, and Shipka helps to illuminate that. Additionally, Gere and Yancey et. al remind us of the other, everyday, and material realities of writing. I enjoy how the blog post for the Digital Scholars group deals with technology and exploring other composing practices and processes. It was also fun to play around with the tools.&lt;/p&gt;
+
+&lt;p&gt;The second outside artifact that I chose was an &lt;a href=&#34;https://atplaywithcomposition.wordpress.com/exploratory-2-interest-and-inquiry/&#34; target=&#34;_blank&#34;&gt;assignment prompt from my 2135 class for an exploratory collaborative activity.&lt;/a&gt; I chose this for multiple reasons, but mostly because I see it as an enactment of many of the social, inquiry, collaborative, and epistemological facets of composition, and it does so within a composition classroom. I saw a connection within this to the idea to Trimbur in having students use &amp;ldquo;consensus as a critical instrument&amp;rdquo; (745) to examine how they go about inquiry and investigation, and how it relates back to their research. I also like this prompt, this writing, and the resulting work, because it shows much of what we know about composition, especially in engaging with a Bruffian &amp;ldquo;conversations&amp;rdquo; between each other and their research. I also see it as an invitation for students to work within their different expertise, and assemble a response and reflection out of it. I like how it works to inhabit and illuminate inquiry as an important topic of composition for students, and how it asks myself and my students to perform and play with some of the key concepts of composition.&lt;/p&gt;
+
+&lt;p&gt;This leads directly to my &lt;a href=&#34;https://michaelhealy.space/projects/eportfolio/comptheory/abstract&#34;&gt;final project&lt;/a&gt;, where I am proposing a talk and study based on my own classroom teaching this semester. I see it as an intersection of play, pedagogy, and composition, looking to examine not only what students know, but how they know it and why it is important. I also see it as examining play on students’ perceptions on learning and utilizing voice, agency in adapting to composing assignments, and the efficacy of play as evident within their writing. I see this as building on the social and rhetorical aspects of composition, and building within activity theory as a means of inhabiting and exploring concepts involved with composition, and examining connections between inquiry, process, and literacies.&lt;/p&gt;
+
+&lt;p&gt;I had found solid ground this semester in the key-terms and threshold concepts. I particularly found &lt;em&gt;Naming What We Know&lt;/em&gt; and the threshold concepts within useful. I have returned to the eBook from the library a number of times as we have worked through an idea this semester, and have used some chapters in this class, research methods, and introduced it to my own students. Some key terms and concepts from this semester have been: Genre, activity theory, process, difference, ideology, community, and materiality. I see rhetorical ecologies and the social nature of composition cutting across the collected artifacts of this ePortfolio.&lt;/p&gt;
+
+&lt;h3 id=&#34;on-looking-forward&#34;&gt;On looking forward&lt;/h3&gt;
+
+&lt;h4 id=&#34;why-or-how-is-what-we-know-important&#34;&gt;Why or How is What We Know Important&lt;/h4&gt;
+
+&lt;p&gt;I have learned that composition is ecological, it is material, it is cognitive, it is social, it is rhetorical, it is a process, and it is multimodal. On looking back: I see a slow and gradual development of my own approaches to composition theory and practice. This semester did feel more like “home” to me, in the sense that there were a lot of familiar readings, names, and concepts from prior classes, study, research, and pedagogy. My formal introduction to rhetoric and composition was through a class titled “Composition Theory and Pedagogy.” I see myself continuing to bring in a variety of experiences, and to think about ways in which to integrate and implement them.&lt;/p&gt;
+
+&lt;p&gt;I continue to see composition and composing practices functioning within an ecological network of activities. I continue to find Rice’s rhetorical ecologies a useful and productive means of examining and looking at how rhetoric infuses composition, and compositions travel through the world. I’ve found this a useful stance to think about the growth of individuals, the evolution of genres, and the ways in which compositions change and are changed by the various material, social, and cognitive environments in which they circulate.&lt;/p&gt;
+
+&lt;p&gt;So, composing is a social and rhetorical activity, where language—in its many myriad forms, modes, media, and interfaces—mediates an activity between two agents. I see this acting as an evolution from my position at the beginning of the semester, and I see it evident within the selections that I have made for my ePortfolio. In looking back over the semester, I now see stronger connections between composition and rhetoric, especially in the epistemological nature of composition. I also see more of the activities that are involved in composition beyond the nature of the act itself. I am left wondering about how we best teach composition moving forward, and what that will mean in continuing to develop adaptive and responsive pedagogies and practices in the 21st century. In many ways, we need to really get on it, as has been reflected in our most recent readings.&lt;/p&gt;
+
+&lt;p&gt;Composing is the act of creating something material (and I think of this loosely) with the intention of it doing some work with an audience, or between composer, text, and audience. It is an intentional creation of a text (again broad), that has some intended effect. This effect is, in many cases, rhetorical. There is also a clear tension between the intentions of composition and how they are realized. We know that composing is something that people do with the intention of communicating with other people across both space and time. We also know that there are a variety of practices, contexts, languages, genres, and perspectives involved in composition. We also know that it is a different process between different people, and that there isn’t a universal set of composing practices.&lt;/p&gt;
+
+&lt;h4 id=&#34;what-else-do-we-need-to-know-any-why&#34;&gt;What else do we need to know any why?&lt;/h4&gt;
+
+&lt;p&gt;What we know helps us to develop strategies for approach situations to which we can respond, potentially rhetorically, through composition. Additionally, knowing that composition is an interpersonal, distributed, and networked practice helps us to teach composition, or good composing practices to others, and to examine how and why compositions function in the world. I want to take some of these ideas from this semester directly into other classes, my own research, turn the final project into a conference proposal, and to think about ways in which I can continue doing and working with composition in creative ways. I see both genre and activity theory playing important roles in my formulation and approach to composition scholarship and teaching. I also see that networks and ecologies will continue to play a role in how I see my work within rhetoric and composition.&lt;/p&gt;
+
+&lt;p&gt;I think that I am particularly interested in what composition looks like in universities, in English departments, in other departments, in other disciplines, and in other contexts. This is broad, and it really does encapsulate what composition is as a discipline, but it does let me know that I am in the right place. I want to look at how Composition is taught and how it is situated in universities, and I want to see what the relationships are between Composition, English, and Creative Writing. I want to see how WAC and WID are articulated in our own academic homes, and how we can continue to teach and help others in teaching of and with composition in their own contexts. This interest also lets me know that we need to continue to think about how, where, and why people compose, especially in genre choices, technology, and embodiment.&lt;/p&gt;
+
+&lt;p&gt;All this to say, that I think I am becoming more of a WAC/WID person, and this is something that I would not have imagined coming into this program. Additionally, I still see the core of my interests still lying in the overlaps and cross-pollinations between creative writing and composition.&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: center;&#34;&gt;
+  Works Cited
+&lt;/h2&gt;
+
+&lt;p&gt;Adler-Kassner, Linda, and Elizabeth Wardle editors. &lt;em&gt;Naming What We Know: Threshold Concepts of Writing Studies&lt;/em&gt;, Utah State UP, 2015.&lt;/p&gt;
+
+&lt;p&gt;Bazerman, Charles, and David R. Russell. “Introduction.” &lt;em&gt;Writing Selves/Writing Societies&lt;/em&gt;, edited by Charles Bazerman and David R. Russell, WAC Clearing House, 2003. &lt;a href=&#34;https://wac.colostate.edu/books/selves_societies/intro.cfm&#34; target=&#34;_blank&#34;&gt;https://wac.colostate.edu/books/selves_societies/intro.cfm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Brandt, Deborah, and Katie Clinton. “Limits of the Local: Expanding Perspectives on Literacy as a Social Practice.” &lt;em&gt;The Norton Book of Composition Studies,&lt;/em&gt; edited by Susan Miller, W.W. Norton, 2009, pp. 1321-1338.&lt;/p&gt;
+
+&lt;p&gt;Bruffee, Kenneth A. “Collabroative Learning and the ‘Conversation of Mankind.’” &lt;em&gt;The Norton Book of Composition Studies,&lt;/em&gt; edited by Susan Miller, W.W. Norton, 2009, pp. 545-562.&lt;/p&gt;
+
+&lt;p&gt;Elbow, Peter. “Toward a Phenomenology of Freewriting.” &lt;em&gt;Journal of Basic Writing&lt;/em&gt;, vol. 8, no. 2, 1989, pp. 42-71. &lt;a href=&#34;https://wac.colostate.edu/jbw/v8n2/elbow.pdf&#34; target=&#34;_blank&#34;&gt;https://wac.colostate.edu/jbw/v8n2/elbow.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Condon, William, and Carol Rutz. “A Taxonomy of Writing Across the Curriculum Programs: Evolving to Serve Broader Agendas.” &lt;em&gt;College Composition and Communication&lt;/em&gt;, vol. 64, no. 2, December 2012, pp. 357-382.&lt;/p&gt;
+
+&lt;p&gt;Devitt, Amy. “Generalizing about Genre: New Conceptions of an Old Concept.” &lt;em&gt;College Composition and Communication&lt;/em&gt;, vol. 44, no. 4, 1993, pp. 573-586.&lt;/p&gt;
+
+&lt;p&gt;Emig, Janet. “From &lt;em&gt;The Composing Process of Twelfth Graders&lt;/em&gt;.” &lt;em&gt;The Norton Book of Composition Studies,&lt;/em&gt; edited by Susan Miller, W.W. Norton, 2009, pp. 228-251.&lt;/p&gt;
+
+&lt;p&gt;Flash, Pamela. “From Apprised to Revised: Faculty in the Disciplines Change What They Never Knew They Knew.” &lt;em&gt;A Rhetoric of Reflection&lt;/em&gt;, edited by Kathleen Blake Yancey, Utah State UP, 2016, pp. 227-249.&lt;/p&gt;
+
+&lt;p&gt;Gere, Anne Ruggles. “Kitchen Tables and Rented Rooms: The Extracurriculum of Composition.” &lt;em&gt;The Norton Book of Composition Studies,&lt;/em&gt; edited by Susan Miller, W.W. Norton, 2009, pp. 1081-1096.&lt;/p&gt;
+
+&lt;p&gt;Miller, Carolyn. “Genre as Social Action.” &lt;em&gt;Quarterly Journal of Speech&lt;/em&gt;, vol. 70, no. 2, 1984, pp. 151-167.&lt;/p&gt;
+
+&lt;p&gt;Miller, Thomas P. “From &lt;em&gt;The Formation of College English: Rhetoric and Belles Lettres in the British Cultural Provinces&lt;/em&gt;.” &lt;em&gt;The Norton Book of Composition Studies,&lt;/em&gt; edited by Susan Miller, W.W. Norton, 2009, pp. 53-73.&lt;/p&gt;
+
+&lt;p&gt;Roozen, Kevin. “Reflective Interviewing: Methodological Moves for Tracing Tacit Knowledge and Challenging Chronotopic Representations.” &lt;em&gt;A Rhetoric of Reflection&lt;/em&gt;, edited by Kathleen Blake Yancey, Utah State UP, 2016, pp. 250-267.&lt;/p&gt;
+
+&lt;p&gt;Russel, David R. “American Origins of the Writing-across-the-Curriculum Movement.” &lt;em&gt;The Norton Book of Composition Studies,&lt;/em&gt; edited by Susan Miller, W.W. Norton, 2009, pp. 151-170.&lt;/p&gt;
+
+&lt;p&gt;Russel, David R., and Arturo Yañez. “’Big Picture People Rarely Become Historians’: Genre Systems and the Contradictions of General Education.” &lt;em&gt;Writing Selves/Writing Societies&lt;/em&gt;, edited by Charles Bazerman and David R. Russell, WAC Clearing House, 2003. &lt;a href=&#34;https://wac.colostate.edu/books/selves_societies/russell/&#34; target=&#34;_blank&#34;&gt;https://wac.colostate.edu/books/selves_societies/russell/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Shaughnessy, Mina P. “Introduction to _Errors and Expectations: A Guide for the Teacher of Basic Writing._” &lt;em&gt;The Norton Book of Composition Studies,&lt;/em&gt; edited by Susan Miller, W.W. Norton, 2009, pp. 387-396.&lt;/p&gt;
+
+&lt;p&gt;Shipka, Jody. “A Multimodal Task-Based Framework for Composing.” &lt;em&gt;College Composition and Communication&lt;/em&gt;, vol. 57, no. 2, 2005, pp. 277-306.&lt;/p&gt;
+
+&lt;p&gt;Skinnel, Ryan. “Unraveling an Alien System of Meaning: Composition as Concession.” &lt;em&gt;Conceding Composition: A Crooked History of Composition’s Institutional Fortunes&lt;/em&gt;. Utah State UP, 2016, pp. 3-27.&lt;/p&gt;
+
+&lt;p&gt;Trimbur, John. “Consensus and Difference in Collaborative Learning.” &lt;em&gt;The Norton Book of Composition Studies,&lt;/em&gt; edited by Susan Miller, W.W. Norton, 2009, pp. 733-747.&lt;/p&gt;
+
+&lt;p&gt;Yancey, Kathleen Blake, and Stephen J. McElroy. “Assembling Composition: An Introduction.” PDF.&lt;/p&gt;
+
+&lt;p&gt;Yancey, Kathleen Blake. “Looking Back as We Look Forward: Historicizing Writing Assessment.” &lt;em&gt;The Norton Book of Composition Studies,&lt;/em&gt; edited by Susan Miller, W.W. Norton, 2009, pp. 1186-1204.&lt;/p&gt;
+
+&lt;p&gt;Yancey, Kathleen Blake, editor. &lt;em&gt;A Rhetoric of Reflection&lt;/em&gt;, edited by Kathleen Blake Yancey, Kindle ed., Utah State UP, 2016.&lt;/p&gt;
+
+&lt;p&gt;Yancey, Kathleen Blake, et. al. “A Room of Our Own: The Case for Everyday Writing in Rhetoric and Composition.”&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spring Semester and PhD Applications are in</title>
-      <link>http://michaelhealy.space/2016/01/spring-semester-and-phd-applications-are-in/</link>
-      <pubDate>Fri, 22 Jan 2016 03:10:30 +0000</pubDate>
+      <title>Triptych Plus Project</title>
+      <link>https://michaelhealy.space/project/eportfolios/comptheory/triptych/</link>
+      <pubDate>Sat, 15 Apr 2017 17:20:15 +0000</pubDate>
       
-      <guid>http://michaelhealy.space/2016/01/spring-semester-and-phd-applications-are-in/</guid>
-      <description>Long time, no update. It&amp;#8217;s now the second week of the semester, and it feels like there is a lot that has been accomplished and a lot still left to do.
-All of the PhD applications are in! So that is a great feeling. I think that I hit submit on the last one around this time last week. So here&amp;#8217;s to playing the waiting game. It feels good to have things out of my control and know that I did everything to make my applications the best possible.</description>
+      <guid>https://michaelhealy.space/project/eportfolios/comptheory/triptych/</guid>
+      <description>
+
+&lt;h2 id=&#34;hombrewing&#34;&gt;Triptych 1: Homebrewing Beer&lt;/h2&gt;
+
+&lt;p&gt;I am examining the composing practices of the homebrew beer community, one that, while not an academic field, does serve as a discourse community. It is also one that I have been involved in for close to 10 years in different capacities. There are a number of different composing practices within the community, from the sharing of recipes and expertise in various forums, to the creation of recipes, to the composition of books, and the assemblage of recipes and recipe kits. I see composition as functioning in a number of ways within this community. The first is through the formulation and composition of recipes. The second is in the exchange of information through posts and discussion in online forums such as &lt;a href=&#34;http://homebrewtalk.com&#34; target=&#34;_blank&#34;&gt;Homebrewtalk.com&lt;/a&gt;, the &lt;a href=&#34;https://www.reddit.com/r/homebrewing&#34; target=&#34;_blank&#34;&gt;r/homebrewing&lt;/a&gt;, and the &lt;a href=&#34;https://www.homebrewersassociation.org/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Homebrewers Association&lt;/em&gt;&lt;/a&gt;. The third is in using this collected knowledge to invent new recipes and techniques. Composition exists along with knowledge of the hombrewing process, with knowledge and literacies learned and exchanged in the process of brewing beer and writing about it.&lt;/p&gt;
+
+&lt;p&gt;At its core, brewing beer is the specific application of heat and time to water, hops, yeast, and grain to create the beer. While this is a simple explanation of the process, the actual application of this knowledge shows the complexity and variety of the composition process. Early on, as someone is learning the context, there is a lot of reception of pre-made composition. There is a following of formulas and pre-made recipes. There is a collection of this knowledge that people tap into as they first approach the context. From here, as knowledge is gained, people are able to add to the context. Knowledge can be used to change recipes, make new ones, adapt, and create new recipes that are then exchanged.&lt;/p&gt;
+
+&lt;p&gt;The compositions of homebrewing exist within complex ecologies. There are local contexts such as the brewer, their knowledge, and their reading of materials in the creation of beer. There are also local ecologies with homebrew supply stores, brewer’s leagues, and homebrew clubs. These are further connected to larger ecologies of homebrewers and knowledge in online forums, social networks, and books. This knowledge is then further shared and circulated through recipes, cookbooks, and pre-assembled kits. There are a variety of literacies and expertise that can be learned and used in homebrewing that are learned and shared.&lt;/p&gt;
+
+&lt;p&gt;I see this as comparable to rhetoric and composition in the variety of skill levels, depth of composition, types of publication, and forums where compositions circulate. There is a clear distinction of different skills and how they relate to the work within the field. There are a variety of activities related and within the study of both fields. They can both make products for public consumption or private reflection. They rely on a variety of different skills and expertise to respond to various situations and within different contexts.&lt;/p&gt;
+
+&lt;p&gt;There is also a connection to Rhetoric and Composition in the ways in which information is distributed and shared. There are informal means of composition, through the writing and sharing of knowledge from person to person. Composition are then shared on online forums, collected into recipes, and shared in everyday writing within the local communities and contexts. This is then collected into magazines and journals, with the compositions taking on a more authoritative tone in collected recipes. This knowledge is then combined into books which are circulated and sold within the same broader community contexts.&lt;/p&gt;
+
+&lt;h2 id=&#34;spacex&#34;&gt;Triptych 2: Composition as revealed/displayed in the SpaceX Hosted Webcast for Iridium 1&lt;/h2&gt;
+
+&lt;p&gt;The artifact that I will be analyzing is the SpaceX hosted webcast for the Iridium-1 satellite launch from January 14&lt;sup&gt;th&lt;/sup&gt;, 2017. This marked the return to flight for SpaceX after a pad accident and explosion back in September. The webcast was available for live-streaming and is available as an archive online through &lt;a href=&#34;https://www.youtube.com/watch?v=tTmbSur4fcs&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;YouTube.&lt;/em&gt;&lt;/a&gt; The stream covers pre-launch activities through the successful deployment of the payload. The webcast consists of a widescreen viewing window with a timeline at the bottom that details major events of the launch, SpaceX branding in the lower right corner, T+ (or – if pre-launch) time in the upper right corner, and relevant information taken from telemetry data also in the upper right. The middle of the screen alternates between live video of different SpaceX employees who host the cast, live video from various cameras on, in, and around the rocket and its payload. The screen will also switch to being filled by one of the video streams at various points to highlight some action or activity.
+&lt;img src=&#34;https://michaelhealy.space/img/comptheory/Screen-Shot-2017-01-23-at-1.50.31-PM.png&#34; alt=&#34;Split screen view with hosts.&#34; /&gt;
+The contents of the webcast include live video, live statistics, live audio, hosts, data, timeline of events, YouTube controls, pre-recorded advertising, variety of shots, cameras, and angles, interview with the CEO of the customer talking about the payload and the relationship with SpaceX, and animations drawn from data of the flight. time elapsed, highly collaborative, features audio commentary, flight controls, video of the rocket at various stages of its flight. Throughout the webcast, the hosts offer explanations on what the current activity is during the flight. There is also live audio from the SpaceX facility that includes crowds cheering and mission control operations. The webcast also uses multiple modes—audio, video, animation, and alpha-numeric text—to effectively communicate a variety of information to various audiences.
+&lt;img src=&#34;https://michaelhealy.space/img/comptheory/Screen-Shot-2017-01-23-at-1.50.20-PM.png&#34; alt=&#34;Full screen view from rocket during return of 1st stage booster.&#34; /&gt;
+What does this teach us about composition? First, that it is collaborative. It takes many different people with many different expertise’s to compose something. That composition exists within a specific context of a commercial rocket launch. The composition as seen in the live webcast requires pre-recorded and scripted audio/video, created animations, the exigence itself, directors, animators, scientists, and the audience to help make meaning. Secondly, that compositions are intended for multiple audiences. In this hosted webcast the audience may be an interested public, potential customers, lawmakers, or investors, among others. The composition may also have different purposes towards those audiences, to inform, to entertain, to sell, to argue for the value, to solicit investment, or to generate support for the company. These multiple purposes and audiences may overlap, compliment, or compete with one another.&lt;/p&gt;
+
+&lt;p&gt;Successful compositions also require different literacies and knowledges. This hosted webcast works to educate and welcome novices into the discourse community and field of commercial space flight and aerospace engineering. There is an attempt to explain and define moves and actions, as seen during minute 23 where the hosts explain the different maneuvers that the rocket and the team are undergoing, at the 25-minute mark where they are discussing the use of the grid fins on the landing rocket, and the 1:18 mark with the deployment of the satellites. This tells us that composition is situated at a confluence of multiple exigencies, audiences, and purposes, and do work to navigate in between composer(s), composition, and audiences.&lt;/p&gt;
+
+&lt;h2 id=&#34;powell&#34;&gt;Triptych 3: The Stories of CCCC&lt;/h2&gt;
+
+&lt;p&gt;For the third piece of the Triptych, I choose to look at Malea Powell’s 2012 address &lt;a href=&#34;http://www.ncte.org/library/NCTEFiles/Resources/Journals/CCC/0642-dec2012/CCC0642Address.pdf&#34; target=&#34;_blank&#34;&gt;“Stories Take Place: A performance in One Act.&amp;rdquo;&lt;/a&gt; I largely chose this piece based on the title and that it was a relatively recent address, but from before I even knew what CCCC was. In this talk, Malea (I’m using her first name based on how she represents herself in the work) presents an assemblage of stories from people about place and composition, to examine how the discipline often finds itself at intersections—between places, people, ideologies, publics, and the academy—as we teach and study. She sees these intersection as traditionally erasing people and epistemologies, and she calls on scholars in composition to do decolonializing work by teaching and presenting the stories of others alongside others. She uses the assemblage of voices and perspectives to tell the story of the conference to illustrate how “our discipline founds itself at the heart of the narrative of modernity, and it is deeply mired in the muck of the logic of coloniality” (393). She questions the passed down traditions of Rhetoric and Composition, from Aristotle on down, through the western tradition. She looks at the stories, epistemologies, people, and places that have been erased by the march of western colonization and western academic thought. In doing so, she illustrates the often-invisible perpetuation of racist, sexist, homophobic, and xenophobic ideologies that our intellectual tradition helps, knowingly or not, to perpetuate.&lt;/p&gt;
+
+&lt;p&gt;I was drawn to the multi-voiced and assembled nature of this presentation. It reflects, for me, so much of the important work that I see composition doing, and reflecting the sort of work that I want to do. It also expands what it means to compose, both in form and content. I found the use of place, person, story, and perspective as an important consideration to how knowledge is made in, with, and between perspectives. I also see this talk, and the decolonization that she demonstrates and calls for, as underlying many of the reasons why I am studying here.&lt;/p&gt;
+
+&lt;p&gt;Malea frames composition as doing vitally important work, more than just teaching writing, but in allowing people to tell stories. Stories and narratives are powerful, they are how the world is constructed. By examining the stories that we tell and are told, it is possible to start examining the ideological injustice that can infect the world of discourse. She sees rhetoric and composition as existing at the confluence of multiple rivers, of multiple epistemologies, multiple perspectives, and as a multiplicity of voices. She sees this as a strength of the discipline, and calls on us, the audience, to realize this potential. She sees composition as doing good work within many discourses, but that we ultimately limit ourselves to an oppressive western mode, intentionally or not. She asks us to examine and question our assumptions, and to broaden the stories and narratives that we see as counting, not to erase them like Cahokia. She links together story, place, and rhetoric as essential pieces of epistemology.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, this talk frames the work of composition in activist terms. It sees the study and teaching of rhetoric and composition as means to change the world. She illustrates, through the compelling use of a variety of stories, how these other epistemologies and approaches can be used together in promoting a more just world. She ends the talk with a call to “do the thing that we do best—research, teach, mentor, administer in all the inventive and visionary ways that we all say we know how to do better than anybody else—but let’s do so in the service of a decolonized, multivocal knowledge world” (403). Rhetoric and composition can perpetuate injustice but it can also be used to move beyond it.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Proceeding</title>
-      <link>http://michaelhealy.space/2015/12/proceeding/</link>
-      <pubDate>Tue, 01 Dec 2015 00:10:10 +0000</pubDate>
+      <title>Perspectives Project: Ned Stuckey-French</title>
+      <link>https://michaelhealy.space/project/eportfolios/comptheory/perspectives/</link>
+      <pubDate>Mon, 20 Mar 2017 20:55:30 +0000</pubDate>
       
-      <guid>http://michaelhealy.space/2015/12/proceeding/</guid>
-      <description>Well, this fall semester has been a busy one. I presented at a conference, I&amp;#8217;ve been doing PhD applications, I&amp;#8217;ve been writing a lot, working on a thesis, and teaching two classes. I&amp;#8217;ve been meaning to do more here, perhaps I will soon.</description>
+      <guid>https://michaelhealy.space/project/eportfolios/comptheory/perspectives/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/209279183&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Embedding the video here also allows me to do some additional contextual work. &lt;a href=&#34;http://nedstuckeyfrench.com&#34; target=&#34;_blank&#34;&gt;Much of what Ned Stuckey-French has written can be found at his website.&lt;/a&gt; He is someone, who in his responses and his writing, crosses many boundaries, and seems to invite others to do the same. His perspective is one of learning from students on writing and composing practices, seeing his work in the classroom as informing and influencing his own. His responses also highlighted how composition is embodied and is influenced by habits, culture, tools, and location. There was a sense that writing did something in connecting his own experiences with others, and to learn something while doing so.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Quick Update</title>
-      <link>http://michaelhealy.space/2015/06/quick-update/</link>
-      <pubDate>Wed, 24 Jun 2015 16:54:32 +0000</pubDate>
+      <title>SRR 3: Situating Composition Studies</title>
+      <link>https://michaelhealy.space/project/eportfolios/comptheory/selection1/</link>
+      <pubDate>Mon, 30 Jan 2017 21:47:18 +0000</pubDate>
       
-      <guid>http://michaelhealy.space/2015/06/quick-update/</guid>
-      <description>Hey everyone! Sorry about the long delay, the end of the semester and the beginning of the summer have been fun, busy, and adventure filled. I&amp;#8217;ve also had some idea of how this blog will shape and evolve over the next few months as I do intend to keep updating and adapting it.
-Here is a preview of some of the thing that I intend to write about: Trip to Colorado, seeing The Mountain Goats, running the 2015 Bolder Boulder, getting back into running, pizza, bacon, running, salads, gardening, peppers, golf, soup, beer, and the general trajectory of life.</description>
+      <guid>https://michaelhealy.space/project/eportfolios/comptheory/selection1/</guid>
+      <description>
+
+&lt;p&gt;These three pieces detail the historic movements, developments, and changes of composition as an action, pedagogy, theory, class, and concession. Skinnel details the evolution of composition classes at Arizona State as the college developed and changed over its history. Miller detail the development of College English through rhetoric and Belles Lettres in the Scottish system of higher education. Braddock examines the use of topic sentences within popular compositions with an aim at examining the ways in which we teach writing at the paragraph level. And finally, Christensen looks to establish a rhetoric for the paragraph that can be used to illustrate and teach the ways in which paragraphs generate and make meaning. These pieces, in their various ways, detail the content and context of the evolution of composition as a field of study, inquiry, pedagogy, and theory. All four pieces detail the emergence of rhetoric and composition as a “need” to teach in the university for various exigencies and shifting ideologies. Braddock and Christensen use their pieces to critique the pedagogies and approaches that had been inherited in English and composition from earlier traditions.&lt;/p&gt;
+
+&lt;p&gt;I found these pieces alternatively interesting and incredibly difficult. I really enjoyed Skinnel’s detailing of the context of the evolution of composition, and how it evolved, and was variously conceded, due to outside influences, cultural changes, and ideological shifts at Arizona State. It was an interesting angle to approach the history, and it was enlightening to see how it arose out of his research, almost unexpectedly. I had difficulty with the Miller piece, especially in trying to keep the pieces straight. I did find the dive into the specific socio-cultural issues of Scottish universities, and the evolution of rhetoric, composition, and the student societies, an interesting historical framing of the tradition that we seem to have inherited, at least in part, within English departments. Both Braddock and Christensen offered an interesting view into concerns at the time, and different ways to look at the paragraph. I see these two as showing growing concern for a growing field in the interests and pedagogies of teachers of composition.&lt;/p&gt;
+
+&lt;p&gt;So, what is the historical context for 21&lt;sup&gt;st&lt;/sup&gt; century composition in the academy? First, it is one that is situated, largely, within English departments. While Skinnel did detail some exceptions to this, composition and composition studies seems firmly within the scope and purview of English departments on campuses that are largely divided by college, school, and discipline. Additionally, within this context, composition is seen as a skill that needs to be taught and can be mastered with the right practice and pedagogy. Composition is there to serve and provide support for other disciplines, endeavors, and inquiry within other fields, and not necessarily as one of its own. However, there seems to be a large deal of pushback against this assumption, as detailed in all the articles. Composition may have started to meet some exigence, supposed need, or out of an ideological shift, but the work within is vital. There is also the sense, as I see it given these readings, of composition standing at intersections between disciplines, departments, universities, and the public. Composition is more than just a required class or an introduction to academic discourse. These readings summarize that prior, and pedestrian, view of composition and challenge it to be something more. It also details the many institutional and ideological challenges to the study, practice, theory, and pedagogy of composition.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;reflection&#34;&gt;Reflection&lt;/h2&gt;
+
+&lt;h3 id=&#34;what-is-the-artifact-within-the-larger-context-of-the-course-experience&#34;&gt;What is the artifact within the larger context of the course/experience?&lt;/h3&gt;
+
+&lt;p&gt;This SRR was from the third week of class. This piece, for me, shows the beginnings of my historiographical understandings of the field and discipline. While I have had classes, studied, and used composition theory and pedagogy, I feel that my historical perspectives all were through the march and progression of various pedagogies. I find this artifact interesting in situating myself and my current understandings of composition within a historical context. This selection also allowed me to nerd out a bit over contexts and histories.&lt;/p&gt;
+
+&lt;h3 id=&#34;so-what-or-why-was-this-a-meaningful-learning-experience&#34;&gt;So what, or why was this a meaningful learning experience?&lt;/h3&gt;
+
+&lt;p&gt;This was a meaningful learning experience for a number of reasons. The first was that I was able to better situate both the current and historical contexts of composition as a field and as a discipline. This exploration of the writing and histories shows how I am starting to better see and articulate the context from which composition, as we see it now, arose within universities. I also see how it started, stopped, stumbled, and co-evolved in different contexts with different focuses. I am able to perceive the multiplicity of theories and pedagogies more clearly.&lt;/p&gt;
+
+&lt;h3 id=&#34;now-what-or-what-do-i-need-to-know-or-do-for-the-learning-that-lies-ahead&#34;&gt;Now what, or what do I need to know or do for the learning that lies ahead?&lt;/h3&gt;
+
+&lt;p&gt;Mostly, that I still have a lot to learn. That composition is situated in complex political, ideological, and historical contexts. That while we have a field and discipline, that the expression &amp;ldquo;on the ground&amp;rdquo; can be quite different based on history and location. There is also a deep history to rhetoric and composition, and there will be additional framing as we study the evolution of composition. I also see that many of the same issues that we are currently dealing with have long histories. It lets me really see that there is already a lot that I know, but that there is also a lot that I still have left to learn about composition.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Easy Pork Chops with Mushroom and Marsala Sauce</title>
-      <link>http://michaelhealy.space/2015/05/easy-pork-chops-with-mushroom-and-marsala-sauce/</link>
-      <pubDate>Thu, 07 May 2015 17:21:23 +0000</pubDate>
+      <title>Selection 2: Blog Post, Processing Assumptions</title>
+      <link>https://michaelhealy.space/project/eportfolios/comptheory/selection2/</link>
+      <pubDate>Mon, 27 Feb 2017 21:31:20 +0000</pubDate>
       
-      <guid>http://michaelhealy.space/2015/05/easy-pork-chops-with-mushroom-and-marsala-sauce/</guid>
-      <description>This is a recipe that I took and adapted for a nice, quick, and easy weeknight meal. It could also serve as a good centerpiece for a date or nicer meal as well. It is relatively quick to prepare, though do be sure to not overcook and dry out the pork. Using bone in chops helps with the flavor. In the future I will serve it will rice or noodles to help soak up some of the sauce.</description>
+      <guid>https://michaelhealy.space/project/eportfolios/comptheory/selection2/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://2017compositiontheory.blogspot.com/2017/01/processing-assumptions.html&#34; target=&#34;_blank&#34;&gt;Blog Post: Processing Assumptions&lt;/a&gt;
+So far, we have surveyed some of the historical nature of the field and the discipline, we have yet to see the theoretical march and progression through different theories and theoretical stances as they had developed. As I read, I was struck by how many of the same issues, problems, and assumptions have largely stayed the same or are still being wrestled with.&lt;/p&gt;
+
+&lt;p&gt;Rohman and Wlecke consider an early form of process pedagogy, where-in pre-writing “writing, as one form of creation, is more usefully though of not as made up of words, but of combinations of words” (224). They seem to be examining, as Jessi pointed out, a gap between what they were seeing and teaching. Their examination of pre-writing, and the underlying assumptions on the nature of the writing process and the underlying ideologies, starts to wrestle with the contextualized and recursive nature of writing and writing process. I found their focus, in the conclusion, that “the primary badness of writing is not incorrect grammar or inelegant express; it is rather a matter of stale perspective, cliché response” (226-7), comes up with the same issues that I have with my students. If they aren’t invested, or at least interested, in what they are writing, it sounds bored, stale, and bad. It also has a rushed and incomplete quality to it (something that I know I am guilty of).&lt;/p&gt;
+
+&lt;p&gt;Emig takes this a step further with her interest and study in The Composing Processes of Twelfth Graders. By examining the actual actions that writers, both professional and student, use to compose, a more nuanced cognitive approach to understanding process emerges. Her approach, research questions, methods, and methodologies illuminate much of what students and writers do or may do while writing. For as much as I appreciated her discussion, I found the focusing on the product of writing, even while examining process, disconcerting. This was a hesitation that ultimately Schreiner, Belanoff, and Pradl all present. Emig does a lot of good work, but it does arise out of the assumptions and perspectives of modernist literature and current-traditionalism. It is incredibly interesting, but assumes that good writing is literary writing, and process should help get students to that point.&lt;/p&gt;
+
+&lt;p&gt;James Berlin, in his piece, lays out the development of composition as it has developed largely during the 20th century. Berlin sees three major movements in the development of ideological rhetorical basis for composition in cognitive psychology, expressivism, and social-epistemic (668). His essay helped to illuminate the various underlying ideologies that pushed composition in various directions. It was also interesting to see how different pedagogies linked through ideology or reactions to it. It also presented the work of composition, potentially, as being more than just teaching “how to write correctly.” That examining pedagogy and ideology is vitally necessary to teach responsibly.&lt;/p&gt;
+
+&lt;p&gt;I think that expressivism is an interesting theory of composing to examine. First, it conceptualizes writing as a combination of overlapping acts, thoughts, ideologies, processes, and products. It gives permission and room for the exploration of writing, in various styles and happenings. Additionally, Peter Elbow, and his more moderate approach in freewriting, offers expressivism as a means to produce the stuff for writing to work from. There is an advantage here in producing composition, and lots of it, in response to stuff. However, expressivism lacks a clear direction and method of assessment, outside of participation (at least from my stance). I see this expressed both by Elbow himself and by Berlin. What works for one does not work for all. It also is just a little too neat, “easy,” and corruptible. It also doesn’t account for the variety of rhetorical situations, ecologies, and actual places where composition is, happens, does work, circulates, and fades away. It seems to be a pile-it-on approach, that if we just write enough then something good is bound to rise to the surface.&lt;/p&gt;
+
+&lt;p&gt;Throughout, even with Elbow, I was surprised at how much of the talk focused on the product of writing. While process was overall important, freewriting still had an idea of goal in mind, even if it was personal and metacognitive. But there was an underlying assumption that composition, and composition theory, uses process to get at production of texts, and that these texts can be compared to others.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;reflection&#34;&gt;Reflection&lt;/h2&gt;
+
+&lt;h3 id=&#34;what-is-the-artifact-within-the-larger-context-of-the-course-experience&#34;&gt;What is the artifact within the larger context of the course/experience?&lt;/h3&gt;
+
+&lt;p&gt;This selection is from the third week of classes, and our second overall blog post. It was situated to examine the development of composition as a discipline of inquiry, and as an important area of study. Within it, we were asked to see how composition had developed as a theoretical inquiry. Additionally, we were asked to examine one specific approach and outline its advantages and limitations. This asked us to start synthesizing multiple weeks together, and to start to see the development of conversations, and the evolution of composition theory over time.&lt;/p&gt;
+
+&lt;h3 id=&#34;so-what-or-why-was-this-a-meaningful-learning-experience&#34;&gt;So what, or why was this a meaningful learning experience?&lt;/h3&gt;
+
+&lt;p&gt;This was a meaningful learning experience due to the synthesis of ideas that I was able to encounter. It allowed me to start (re)connecting theories and readings from within the class and from my prior experience. Due to my previous institution and my own interests, I have spent a great deal of time with composition theory and pedagogy, especially with classroom and writing center concerns.  I found that (re)examining this material in this new context allowed me to see connections and ideas that I did not see previously, such as the focus on the products of writing even while discussing process. I was also thinking, though I did not see this at the time, about connections to readings that we have now done, as well as connections to other areas of composition that I have worked with and theorized.&lt;/p&gt;
+
+&lt;h3 id=&#34;now-what-or-what-do-i-need-to-know-for-the-learning-that-lies-ahead&#34;&gt;Now what, or what do I need to know for the learning that lies ahead?&lt;/h3&gt;
+
+&lt;p&gt;The next steps are that there is still an incredible amount to learn. I have found that (re)working within this theory has allowed me to make and see connections that I did not prior. It also lets me know that I need to continue to be open to and see these overlaps and evolutions as they happen. I&amp;#8217;ve been making both mental and physical notes more explicit for these connections, and its been interesting to see how they have played out in explicit and implicit ways in my pedagogy. I&amp;#8217;m also finding that I need to continue making connections between composition theory and pedagogy, and rhetorical theory and pedagogy.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Why I Run</title>
-      <link>http://michaelhealy.space/2015/05/why-i-run/</link>
-      <pubDate>Wed, 06 May 2015 21:56:02 +0000</pubDate>
+      <title>Writing Program Acronyms: Considering Contexts, Systems, and Locales</title>
+      <link>https://michaelhealy.space/project/eportfolios/comptheory/selection3/</link>
+      <pubDate>Mon, 03 Apr 2017 22:02:01 +0000</pubDate>
       
-      <guid>http://michaelhealy.space/2015/05/why-i-run/</guid>
-      <description>A video essay exploring why I love to run and why I seek out dirt trails to do it. This is 1080p so I advise embiggening it for the best viewing experience.
- </description>
+      <guid>https://michaelhealy.space/project/eportfolios/comptheory/selection3/</guid>
+      <description>
+
+&lt;p&gt;David Russel examines the historical development of WAC/WID in modern American universities. Starts with the considerations of composition in universities as a very “American” sort of issue. Connects various waves of development to different “literacy crisis” as new populations of students entered into higher education. These developments roughly paralleled other interests in rhetoric and composition, with WAC/WID developing alongside growth in the study of writing, with emerging PhDs in rhetoric and composition eventually coming in to design and run these programs. The taxonomies discussed by Condon and Ruiz considers the various stages, features, and momentums that WAC programs go through as they develop throughout different university settings. I found their use of the quantum states metaphor useful in understanding the different states and momentum of programs as they develop through the four types of programs that they mention. Each type has a close attention to a type of assessment, reflection, and institutional stance that shifts overtime.&lt;/p&gt;
+
+&lt;p&gt;I found both interesting in their historiography of rhetoric and composition through the implementation and administration of WAC programs. I found Russel’s piece and its focus on broad developments useful in illustrating how programs co-developed with rhetoric and composition programs. There is an additional argument here for the usefulness of PhDs that see and can administer these programs effectively and efficiently for the broadest set of students across a range of different institutions. This paired with the taxonomies, and the close attention that Condon and Ruiz paid to their own programs, allowed for different stances and perspectives on the development of WAC programs to emerge. This gave a nuance to how programs develop and why they have become so widespread. I had a difficult time with the sense of inevitability and linear progression that they established in the taxonomies, and while I found the quantum states metaphor useful, it was also limiting. While I understand the reasons, you can look at the current state or you can look at the long-term momentum, I found that it limited scope to categorization and hierarchy of more fully realized WAC programs.&lt;/p&gt;
+
+&lt;p&gt;I would have like, from my own standpoint, and ecosystem metaphor for WAC/WID programs and their development. Starting with rhetorical ecologies, and how WAC programs are a response to many different exigencies, most often some “literacy crisis” brought on by the admission of some new group of students. I would propose an ecosystem over an ecology specifically for perspective of evolution and change overtime. Ecosystems can change gradually, or quickly based on inputs. It also allows for the examining of systems in place both as they are now, and to look at what they were and what they may be. It would work to move beyond some of the linear progression and hierarchy concerns that I have with the taxonomy models, and work to integrate some of what Russel finds in his historiographic approach to the field and the implementation of WAC programs. It also allows for the placement of “caretakers,” and the notion of restoration of systems. It also positions multiple people, departments, and aims as working within the same broad system, with interrelated parts that don’t always seem to meet in cohesive ways. I think this could be a productive way to think about WAC/WID, their development, their evolution, and for potential future directions. It also allows for a view that can better examine when systems break down for where to potentially intervene. But most importantly, it moves us beyond the binary of static “where it is” or “momentum” as our two views of these programs.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;reflection&#34;&gt;Reflection&lt;/h2&gt;
+
+&lt;h3 id=&#34;what-is-the-artifact-within-the-larger-context-of-the-course-experience&#34;&gt;What is the artifact within the larger context of the course/experience?&lt;/h3&gt;
+
+&lt;p&gt;This SRR asked us to look at two different accounts of the rise of WAC/WID programs in universities. These broadly paralleled many of the same internal and external factors that led to the development of composition as a field of study. It also situates the development of different WAC/WID programs in response to many of the same exigencies that led to basic writing, ePortfolios, testing, and other concerns of composition and composition programs. Within the course it also deals with issues directed towards implementation and realizing the intentions of composition within universities and communities. These are ways of actually doing the work that research indicates may be useful.&lt;/p&gt;
+
+&lt;h3 id=&#34;so-what-or-why-was-this-a-meaningful-learning-experience&#34;&gt;So what, or why was this a meaningful learning experience?&lt;/h3&gt;
+
+&lt;p&gt;I choose this SRR because I liked my own exploration of the issues within the field, and I see myself starting to make connections between different issues in composition. At this point in the course, a few weeks on from this discussion, I see this SRR as starting to manifest where I may see myself working and fitting within the broader discipline. I also see myself starting to push against WAC/WID/WEC in ways that are potentially productive. Some of this is due to the metaphor that Condon and Ruiz used, but I also see it as getting to some of the idyllic promises of these programs, and the need for developing locally contextual writing programs and faculty. It helps me to see how and where I may fit, outside of my own justifications for my interests. I am starting to see where I may fit into this broader thing called Rhetoric and Composition.&lt;/p&gt;
+
+&lt;h3 id=&#34;now-what-or-what-do-i-need-to-know-or-do-for-the-learning-that-lies-ahead&#34;&gt;Now what, or what do I need to know or do for the learning that lies ahead?&lt;/h3&gt;
+
+&lt;p&gt;This lets me know that I need to continue looking at local contexts, and how they are important. To start really thinking about how composition is not realized in some utopia, but that it responds to, and adapts based on local needs, constraints, and affordances. It also has me thinking about more institutional and curricular ways in which we can approach issues an  implement changes. As I was reading the work for assessment this week, I couldn&amp;#8217;t help but wonder about WAC/WID, local contexts, and the development of curriculum and programs. How do these different pieces express themselves in an English department and composition program? I also know that I will need to continue to make these connections. It also lets me know that I have a lot to learn.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Three and a Third at Tranquility for a Friday</title>
-      <link>http://michaelhealy.space/2015/05/three-and-a-third-at-tranquility-for-a-friday/</link>
-      <pubDate>Sat, 02 May 2015 21:59:40 +0000</pubDate>
+      <title>At Play with Composition: Explorations of Voice</title>
+      <link>https://michaelhealy.space/talk/samla2017/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://michaelhealy.space/2015/05/three-and-a-third-at-tranquility-for-a-friday/</guid>
-      <description>Me Post Halfsy I was excited about being able to get out for a run yesterday. I spent most of last summer and much of the fall running trails with the GOATZ at places like Tranquility, Swanson,Lewis and Clark, Hitchcock, and others. These are all parks in the Greater Omaha Area that have dirt trails that are great for running. Through the GOATZ I&amp;#8217;ve met a bunch of awesome people who pushed me into the best shape of my life.</description>
+      <guid>https://michaelhealy.space/talk/samla2017/</guid>
+      <description>&lt;p&gt;I am studying the efficacy of play as an organizational and pedagogical theory in ENC 2135. I am interested in students’ perceptions on play within the composition classroom, especially in the development of voice and agency in their writing. I have anecdotally seen it as a positive influence through my teaching, but I want something more empirical that I can build from.&lt;/p&gt;
+
+&lt;p&gt;To do the study I have prepared a material’s release form and a short survey to distribute to students. I have arranged for the distribution and collection of these materials. I will use these responses, student reflections, and student evaluations to read and code for play, voice, and agency. I will be focusing on a peer review exercise that has students speed date a draft, a collaborative activity that asks students to inhabit inquiry, and the semester reflection letter for their ePortfolios. I will develop a coding scheme (at this point I’m unsure if it will be deductive or inductive) to examine the written materials. I will use the coding, surveys, and my own observations to help triangulate the data.&lt;/p&gt;
+
+&lt;p&gt;I want to see first, what students think about a play infused classroom through these activities, and second, to see if there is evidence of efficacy within their reflective writings, evaluations, and surveys. I will be analyzing data over the summer. My intentions with the data analysis and presentation is to offer a way of developing voice in the composition classroom as a strategy that students can utilize.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Only a few emails like this so far</title>
-      <link>http://michaelhealy.space/2015/04/only-a-few-emails-like-this-so-far/</link>
-      <pubDate>Thu, 30 Apr 2015 19:21:33 +0000</pubDate>
+      <title>Circulation, Narrative, and Human Rights: New Materialism meets Spectacular Rhetoric</title>
+      <link>https://michaelhealy.space/talk/femrhet2017/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://michaelhealy.space/2015/04/only-a-few-emails-like-this-so-far/</guid>
+      <guid>https://michaelhealy.space/talk/femrhet2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Moroccan Quinoa, Kale, and Chickpea Salad</title>
-      <link>http://michaelhealy.space/2015/04/moroccan-quinoa-kale-and-chickpea-salad/</link>
-      <pubDate>Mon, 27 Apr 2015 03:26:50 +0000</pubDate>
+      <title>First Meeting Discussion Notes</title>
+      <link>https://michaelhealy.space/project/wpa-dis/meeting-one/</link>
+      <pubDate>Mon, 12 Jun 2017 10:25:25 -0400</pubDate>
       
-      <guid>http://michaelhealy.space/2015/04/moroccan-quinoa-kale-and-chickpea-salad/</guid>
-      <description>It is that time of year again, when the paper deadlines are here, there are papers to grade, and spring birthday parties to attend. To the last point, my friend and fellow blogger had a gathering on Friday. Be sure to check him out at his blog I&amp;#8217;ll Make a Man Out of You. It is a lot of fun and he is a fantastic writer.
-Anyway, he was having people over for drinks, dinner, and fun times to celebrate his birthday.</description>
+      <guid>https://michaelhealy.space/project/wpa-dis/meeting-one/</guid>
+      <description>&lt;p&gt;Thumbnail sketch for each of the readings. Connections and contradictions between all of them. Thinking as a whole with the set.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Petraglia &lt;em&gt;Reconceiving Writing&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;genre oriented&lt;/li&gt;
+&lt;li&gt;Research oriented&lt;/li&gt;
+&lt;li&gt;Field - at that moment
+
+&lt;ul&gt;
+&lt;li&gt;Many&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;What is writing - composition
+
+&lt;ul&gt;
+&lt;li&gt;teach&lt;/li&gt;
+&lt;li&gt;value&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Joyce Walker - CHAT approach&lt;/li&gt;
+&lt;li&gt;Practice and study
+
+&lt;ul&gt;
+&lt;li&gt;skills to practices&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Practices tend to be located in community
+
+&lt;ul&gt;
+&lt;li&gt;Community of practice&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Work on Prior knowledge - &lt;a href=&#34;https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition&#34; target=&#34;_blank&#34;&gt;how people learn&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Absent prior knowledge - not mentioned very often, probably should be
+
+&lt;ul&gt;
+&lt;li&gt;1995 -&lt;/li&gt;
+&lt;li&gt;1994 - Elbow and Bartholomea -&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Hairston -&lt;/li&gt;
+&lt;li&gt;Ecology of the mind&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cowell-Teague and Lunsford&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Not programs - an important distinctions&lt;/li&gt;
+&lt;li&gt;Ron Lunsford and Rick Straud - &lt;a href=&#34;https://www.amazon.com/Twelve-Readers-Readings-Responding-Language/dp/1881303403&#34; target=&#34;_blank&#34;&gt;12 Readers Reading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Asao Inoue - grading contracts and
+
+&lt;ul&gt;
+&lt;li&gt;How can you give a grade if a grade is a measure of quality&lt;/li&gt;
+&lt;li&gt;Twitter - over the winter - an issue with it
+*&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How students are getting grades&lt;/li&gt;
+&lt;li&gt;Relationship between amount of labor - self reported - and the quality of their work
+
+&lt;ul&gt;
+&lt;li&gt;Kinds of work&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Rob on a Hobby Horse -&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Can we use any of this to create a local program?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strands, uptake, how they are taken up - in very different ways
+
+&lt;ul&gt;
+&lt;li&gt;Whether it works or not&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Community of Practice&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Location and local context&lt;/li&gt;
+&lt;li&gt;Perspectives and ways of positioning self towards the program&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pytlick and Liggett&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Edited collection
+
+&lt;ul&gt;
+&lt;li&gt;Become better through the process, things change and shift&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;All of the approaches&lt;/li&gt;
+&lt;li&gt;Signature preparation
+
+&lt;ul&gt;
+&lt;li&gt;language,&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Philosophy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;These are the raw notes right now from the meeting. I will be updating them with some additional commentary later. The intention is to help contextualize the meeting along with the topics that were discussed. For now, hopefully this is helpful.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
-      <title>Pizzas and Entertaining</title>
-      <link>http://michaelhealy.space/2015/04/pizzas-and-entertaining/</link>
-      <pubDate>Thu, 23 Apr 2015 16:16:19 +0000</pubDate>
+      <title>Teacher Preparation, Curriculum Design, and TA&#39;s</title>
+      <link>https://michaelhealy.space/project/wpa-dis/wpa-dis-ab/</link>
+      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
       
-      <guid>http://michaelhealy.space/2015/04/pizzas-and-entertaining/</guid>
-      <description>Jessi and I made some pizzas for entertaining over the weekend. She made the dough and I took care of many of the topping choices. We made two pizzas, one with sausage, salami, and veggies and the other with bacon, apple, and brie.Bacon, apple, and brie pizza assembly
-Both ended up delicious, with good leftovers, and were well enjoyed! We served them with a red and a white wine (I will have to ask what) and they paired well.</description>
+      <guid>https://michaelhealy.space/project/wpa-dis/wpa-dis-ab/</guid>
+      <description>
+
+&lt;h3 id=&#34;coxwell-teague-deborah-and-ronald-f-lunsford-eds-first-year-composition-from-theory-to-practice-parlor-press-anderson-sc-2014&#34;&gt;Coxwell-Teague, Deborah, and Ronald F. Lunsford eds. &lt;em&gt;First-Year Composition: From Theory to Practice&lt;/em&gt;. Parlor Press, Anderson, SC, 2014.&lt;/h3&gt;
+
+&lt;p&gt;This edited collection provides theoretical background for a hypothetical first-year composition class. Coxwell-Teague and Lunsford ask the contributors&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; &amp;ldquo;what they would do if they taught semester-long first-year composition course at their schools and if they knew such courses were to be the only college-level composition course the students would take&amp;rdquo; (preface viii)? Each chapter is separated into two halves: theoretical frame and a syllabus. In the first section of each chapter, the contributors offer the rationales for their design of the course, each highly representative of their own interests and their contexts. The second half of the chapter are supplementary materials, each with a syllabus, and many with assignment sheets. Overall, the collection offers a snapshot of what many scholars in Rhetoric and Composition see as the important features of this class. There are many commonalities among them, where FYC does not focus on grammar, persuasion, or on the &amp;ldquo;improvement of writing&amp;rdquo;. Overall, the collection offers an interesting look at what the core teaching practices and focuses of the discipline are, and where they fit within First-Year composition.&lt;/p&gt;
+
+&lt;p&gt;I found the class designs and syllabi really engaging. It has me actively thinking about both how to design my classes this summer and fall, and also thinking about how we talking about and theorize curriculum design. I find this especially useful in the connections between design and assessment, and how transparent (or not) that connection is.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;petraglia-joseph-reconceiving-writing-rethinking-writing-instruction-mahwah-nj-1995&#34;&gt;Petraglia, Joseph. &lt;em&gt;Reconceiving Writing: Rethinking Writing Instruction&lt;/em&gt;. Mahwah, NJ, 1995.&lt;/h3&gt;
+
+&lt;p&gt;This edited collection rethinks and theorizes what writing is.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;pytlik-betty-p-and-sarah-liggett-preparing-college-teachers-of-writing-histories-theories-programs-practices-oxford-up-oxford-2002&#34;&gt;Pytlik, Betty P, and Sarah Liggett. &lt;em&gt;Preparing College Teachers of Writing: Histories, Theories, Programs, Practices&lt;/em&gt;. Oxford UP, Oxford, 2002.&lt;/h3&gt;
+
+&lt;p&gt;This edited collection examines issues of curriculum design, teacher preparation, graduate teaching assistants, labor, pedagogy, and practice. It has an extensive list of contributors &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, and the chapters were organized around the themes histories, theories, programs, and practices. The provided chapters offer a snapshot into program design, preparation, curriculum, education, support, and local contexts for a variety of teaching assistants, adjuncts, faculty, and professors teaching college writing. The chapters tended to reflect the local nature of the program, outside of some that took a winder stance such as Yancey&amp;rsquo;s heuristic for curriculum design. Overall, the chapters tended to get repetitive, with many offering similar types of programs with various levels teacher preparation and support. There were things to be learned in terms of the framing, content, and ongoing programs that teachers of composition need, and how to structure programs and curriculums. This volume, as compared to the others, was light on theory but had lots of on-the-ground types of insights and explorations&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;restaino-jessica-first-semester-graduate-students-teaching-writing-and-the-challenge-of-the-middle-ground-southern-illinois-up-carbondale-2012-ebook&#34;&gt;Restaino, Jessica. &lt;em&gt;First Semester: Graduate Students, Teaching Writing, and the Challenge of the Middle Ground.&lt;/em&gt; Southern Illinois UP, Carbondale, 2012. eBook.&lt;/h3&gt;
+
+&lt;p&gt;In this monograph, Restaino studies the first semester teaching experiences of four first-semester graduate teaching assistants as they navigate the multiple roles of graduate teaching assistants. She uses Hannah Arendt&amp;rsquo;s &amp;ldquo;ideas about beginnings, about necessity, and about work&amp;rdquo; to examine the ways in these four student/teachers form their teaching personas, work through difficulties, theorize their classrooms, and situate their work/labor at &amp;ldquo;Public U.&amp;rdquo; Restaino by presenting the context that the students were presented with: a 3 day orientation, a semester long practicum, an assigned syllabus and schedule, and ongoing mentoring. She also notes the methods and methodologies that she utilized in her study, with an attentive, ethnographic, participant-observer as the primary means of data collection. This included the observation of the four teaching, email interview, the collection of student writing, and the offer for mentoring/support throughout the semester by meeting with the group over drinks, as well as through email. Using Arendt&amp;rsquo;s theories about labor, consumerism, and the human condition, she examines how the four students develop and maintain a sense of agency and identity through meaningful work, rather than falling into the traps of meaningless labor to survive. This analysis offers meaningful explorations where these students were successful, and painful narratives where they weren&amp;rsquo;t. This was especially true with her narrative and analysis of Tess and Nancy, with Tess&amp;rsquo;s issues establishing &amp;ldquo;authority&amp;rdquo; and the struggles with Philosophy Phil, and the ways in which Nancy constructed her persona as detached, and doing the teaching on her own terms. While Restaino is careful in her conclusions to not generalize from this particular semester-long, contextual, case study, she does suggest that this sort of localized analysis of graduate students and non-tenured faculty can help understand and adapt education and support programs for these new teachers. Additionally, it offers a different means of theorizing labor/work in composition programs, and can offer WPAs a different means to design and assess their programs.&lt;/p&gt;
+
+&lt;p&gt;I found the book overall intriguing and thought provoking. The detailed narratives and case studies offered a look into a particular set of graduate students and WPA concerns. Given her methodological stance, Restaino raised many questions through her analysis, and offered a potential framework to adapt to local contexts. However, I felt as if there was much that could be further explored throughout the text and in further analysis. This was a very interesting read in thinking about the Strickland and Gunner collection, and with the theorizing of labor and laboring from Asoa Inoue.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;strickland-donna-and-jeanne-gunner-the-writing-program-interrupted-making-space-for-critical-discourse-boyton-cook-portsmouth-2009&#34;&gt;Strickland, Donna, and Jeanne Gunner. &lt;em&gt;The Writing Program Interrupted: Making Space for Critical Discourse&lt;/em&gt;. Boyton/Cook, Portsmouth, 2009.&lt;/h3&gt;
+
+&lt;p&gt;This edited collection examines issue surrounding the professionalization of composition and writing studies, especially as experienced by WPAs, and the people that they work with and for. There is a range of contributors&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, showcasing a variety of experiences and perspectives. There is an attention paid to issues of what counts as work and labor, and the issues that have arisen out of the teaching of composition and the development of writing programs under the administration of WPAs. Additionally, there are calls for continued work in detailing and accounting for the variety of work and labor that occurs within Writing Programs as expressed in their various local contexts. The chapters ranged in their discussions from history, to development of TA and WPA theory, and the real labor implications of the work of WPAs. There was a call for tenure line and tenured WPAs in institutions, for better accounting for teaching and administration as important intellectual work, and for implementing policies, procedures, and mindsets that help to address the labor and staffing inequities that are present in many writing programs. There were examinations of the labor of WPAs, adjuncts, full-time faculty, and GTAs. The most salient chapters dealt with the rhetorics of programs, their local context, and how they can be both theorized and implemented in more just and equitable ways. These chapters were also able to make some detailed analysis of programs, and offer some generalizable insights out of them. However, there were a number of chapters that were either not as strong, or dealt with an issues/exploration that seemed overly contextual, without adding to broader understandings of the labor of WPA work.&lt;/p&gt;
+
+&lt;p&gt;This book, to me, was hit-or-miss. There were some chapters that were exceptionally strong, especially in considering the working conditions, political realities, and labor issues associated with the teaching and administration of writing programs. The concern here for examining the &amp;ldquo;consolidation of the field of writing program administration under the forces of managerialism, professionalization, and the economic systems of both, with resulting material practices that serve to limit the nature of WPA work, though not its culturally conservative effects&amp;rdquo; (xiii). Many of the issues expressed here appeared in narratives presented by Restaino, and in the design of classes presented in Coxwell-Teague and Lunsford.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Chris Anson; Suresh Canagarajah; Douglas Hesse; Asao Inoue; Paula Mathieu; Teresa Redd; Alexander Reid; Jody Shipka; Howard Tinberg; Victor Villanueva; Elizabeth Wardle and Doug Downs; Kathleen Blake Yancey.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;Betty P. Pytlik; Stephen Wilhoit; Krsti A. Sandy; Irwin Weiser; Darin Payne and Theresa Enos; Kathleen Blake Yancey; Shirley K Rose and Margaret J. Finders; Judith Goleman; Christine Farris; Rebecca J. Rickly and Susanmarie Harrington; Katrina M. Powell, Peggy O&amp;rsquo;Neill, Casandra Mach Phillips, and Brian Huot; Katherine K. Gottschalk; Betty Bamberg; Chris Burnam and Rebecca Jackson; Paul Anderson, Todd DeLuca, and Lisa Rosenberger; Christine Hult and Lynn Meeks; Muriel Harris; Sally Barr Ebest; Wanda Martin and Charles Paine; Gita Das Bender; Michael C. Flanigan; Thomas E. Recchio; Barry Thatcher; Donna Qualley; Margaret Lindgren; Sarah Liggett
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;John Trimbur; Donna Strickland and Jeanne Gunner; Jeff Rice; Tom Fox; Laura Bartlett Snyder; Tony Scott; Sidney I. Dobrin; Bruce Horner; William P. Banks and Jonathan Alexander; Jane E. Hindman; Wendy Hesford, Edgar Singleton, and Ivonne M. García; Thomas P. Miller and Jillian Skeffington; Joe Marshall Hardin; Kathryn Valentine; Margaret Shaw, Gerry Winter, and Brian Huot; Lisa Emerson and Rosemary Clerehan; Christopher Burnham and Susanne Green; Suellynn Duffey
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
-      <title>Hummus: Garlic and Roasted Red Pepper</title>
-      <link>http://michaelhealy.space/recipes/2015-04-14-hummus-2/</link>
-      <pubDate>Tue, 14 Apr 2015 17:40:17 +0000</pubDate>
+      <title>Organizing and Thinking: Themes and Goals</title>
+      <link>https://michaelhealy.space/post/organization/</link>
+      <pubDate>Sat, 20 May 2017 14:20:00 -0400</pubDate>
       
-      <guid>http://michaelhealy.space/recipes/2015-04-14-hummus-2/</guid>
-      <description>This week I decided to make hummus to take to the office to share as a snack and meal accessory. I gathered my supplies and set out to make the two batches: one roasted red pepper and the other garlic.From there it was a quick assembly in my Blendtec Total Blender, blend it, package it, and take it to school with some tortilla chips and some carrots. It&amp;#8217;s been good so far and a great, easy, and healthy snack to bring.</description>
+      <guid>https://michaelhealy.space/post/organization/</guid>
+      <description>&lt;p&gt;So I&amp;rsquo;ve been thinking about how to organize and work through all of this. Both in terms of templating, as well as in terms of theming and organization. I currently have the personal stuff offset in its own subfolder, which I would either like to figure out how to place into its own subdomain, or something. I will need to figure out how to do that. There are things that I like with this &lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt; theme, especially in terms of it &amp;ldquo;looking&amp;rdquo; like a CV. And I like the idea, ultimately, of having a CV type academic site, with resources based on the different projects. To have data available, slides, references, etc. Speaking of which, I need to do that for my &lt;a href=&#34;https://michaelhealy.space/talk/cccc2017&#34;&gt;CCCC&amp;rsquo;s talk&lt;/a&gt; from this year. I also like that there is a lot to customize, but that it largely just works, and is relatively well documented.&lt;/p&gt;
+
+&lt;p&gt;I should follow up on a bug, I think, but I also need to do more to learn some additional CSS. Oh well, one summer project at a time.&lt;/p&gt;
+
+&lt;p&gt;I am planning on adding a &amp;ldquo;book review&amp;rdquo; section here, as a way of thinking through the different things that I&amp;rsquo;ve been reading for the summer DIS. I also see this sort of scholarship archive, and my reactions to it&amp;ndash;more casual and blog like than publishable book review&amp;ndash;as a way of reflecting on and synthesizing my reading, as well as a means for creating a public-ish archive. I&amp;rsquo;ll need to see how extensible this theme is before committing to it.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Awp 2015</title>
-      <link>http://michaelhealy.space/2015/04/awp-2015/</link>
-      <pubDate>Sat, 11 Apr 2015 06:21:49 +0000</pubDate>
+      <title>Open Site Initiative</title>
+      <link>https://michaelhealy.space/post/opensite/</link>
+      <pubDate>Sun, 14 May 2017 21:58:49 -0400</pubDate>
       
-      <guid>http://michaelhealy.space/2015/04/awp-2015/</guid>
-      <description>So I&amp;#8217;m currently in Minneapolis for the 2015 awp conference and am having a marvelous time. The picture above is of the bookfair on Thursday morning before it got super crazy. That place has been an overwhelming and amazing experience. I&amp;#8217;ve only walked through maybe a third of it so far between sessions. I plan to spend more time there tomorrow.
-Today I got to see some very interesting panels on video essays and things that I actually really enjoy writing and doing, so that was good.</description>
+      <guid>https://michaelhealy.space/post/opensite/</guid>
+      <description>&lt;p&gt;After a presentation and conversation with &lt;a href=&#34;https://digitalscholars.wordpress.com/2017/04/24/alex-gil-followup/&#34; target=&#34;_blank&#34;&gt;Alex Gil&lt;/a&gt;, I&amp;rsquo;ve chosen, as a summer project, to re-do my personal website, for a few reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;To better know the technologies I use.&lt;/li&gt;
+&lt;li&gt;To better, and more openly, represent my work.&lt;/li&gt;
+&lt;li&gt;To have more control over my making. I would like to know where the things I&amp;rsquo;m doing are going.&lt;/li&gt;
+&lt;li&gt;To get off of a self-hosted Wordpress site.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These is a big project for the summer, but luckily, I think it is working out.&lt;/p&gt;
+
+&lt;p&gt;So, I&amp;rsquo;ve made some of the first things that I need to do with the site.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Bottling Hot Sauce</title>
-      <link>http://michaelhealy.space/recipes/2015-04-07-bottling-hot-sauce-3/</link>
-      <pubDate>Tue, 07 Apr 2015 21:22:32 +0000</pubDate>
+      <title>Ludic Revision: Potential, Play, and Choice</title>
+      <link>https://michaelhealy.space/talk/cccc2017/</link>
+      <pubDate>Sun, 14 May 2017 21:47:41 -0400</pubDate>
       
-      <guid>http://michaelhealy.space/recipes/2015-04-07-bottling-hot-sauce-3/</guid>
-      <description>I spent some time bottling some delicious homemade hot sauce. These were made from peppers that I had grown last summer and that had been lacto-fermenting in the basement for the past few months. The peppers had been de-stemmed and packed in a ~5% salt brine with other ingredients to ferment. I made two sauces, one red and one green. The green sauce has jalapeño, big jim, mariachi, and arbol peppers along with carrots (not blended), onion, mustard seed, and black peppercorn.</description>
+      <guid>https://michaelhealy.space/talk/cccc2017/</guid>
+      <description>&lt;p&gt;In examining intersections between creative writing and composition, revision stands out as “a space in which we teach students that they have choices” (Leahy and Dechow) as they “engag[e] in rigorous self-refection while reading and writing” (Jung). By further framing this revision as play, or ludic revision, we can help students envision the potential of their writing. Ludic revision is collaborative play with language, and it allows students to productively fail as they work through rhetorical choices in the revision process. It also frames revision as a productive activity that students move through. It asks that they change language in their drafts while addressing rhetorical needs and concerns, in order to more effectively engage with the audience. Revision is a process that connects audience expectations and authors’ intentions, and by framing revision as play, while not always fun, students are provided the time and space to fail productively with language through the consideration of rhetorical choices. In order to foster ludic revision, I establish “play-days” as low stakes activities within the composition classroom. These allow students to play with published writing and their own drafts as they identify audiences, play with language, and make connections to rhetorical choices. They are asked to see how playing with language, on the sentence and craft level, is a rhetorical choice that addresses audience aesthetics and rhetorical concerns.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Just Kidding, Life Happened, and I’d Rather Write About That—Part 3</title>
-      <link>http://michaelhealy.space/2015/03/just-kidding-life-happened-and-id-rather-write-about-that-part-3/</link>
-      <pubDate>Tue, 31 Mar 2015 07:09:23 +0000</pubDate>
+      <title>Theories of Composition ePortfolio</title>
+      <link>https://michaelhealy.space/project/eportfolios/comptheory/</link>
+      <pubDate>Mon, 01 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>http://michaelhealy.space/2015/03/just-kidding-life-happened-and-id-rather-write-about-that-part-3/</guid>
-      <description>[][1]Grandma is on the left. No date for the picture. My 93-year-old grandmother had a fall and was put into hospice care, as discussed in part 1 and part 2 of this series. We pick it up here after going to visit her one last time.
-Mom called at 11:30am on February 15th to let us know that grandma had passed away early that morning. She was comfortable and surrounded by family.</description>
+      <guid>https://michaelhealy.space/project/eportfolios/comptheory/</guid>
+      <description>
+
+&lt;p&gt;This is my Spring 2017 Composition Theory ePortfolio. The links go to the individual components that have been selected for inclusion. The selections here represent some of the work of this semester though is not inclusive. I also intend for these selections and reflections to look back to what I brought into the class, what I learned here, and forward to new contexts. At the bottom of this page are links to and brief descriptions of each artifact collected.&lt;/p&gt;
+
+&lt;p&gt;The overall reflection for the ePortfolio will guide you through the reading and connections. As you read through the reflection, the artifacts that I mention will be linked and open in new tabs, so that specifics of what I mention will be available.&lt;/p&gt;
+
+&lt;h2 id=&#34;final-reflection-reflection&#34;&gt;&lt;a href=&#34;reflection&#34; target=&#34;_blank&#34;&gt;Final Reflection&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;This serves as a synthesis of the artifacts collected within this ePortfolio. This reflection works with the themes and readings of the class to illustrate the selections, while also looking beyond the classroom context to how the learning and artifacts function more broadly.&lt;/p&gt;
+
+&lt;h2 id=&#34;triptych-plus-project-triptych&#34;&gt;&lt;a href=&#34;triptych&#34; target=&#34;_blank&#34;&gt;Triptych Plus Project&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;This project examines three different perspectives on composition: Homebrewing Community, a SpaceX hosted webcast for a rocket launch, and Malea Powell&amp;rsquo;s 2012 CCCCs chairs address. The above link will take you directly to the reflective overlay, which then links to the individual panels of the triptych. This organization mirrors the theological art use of a triptych, with the overall theme opening up to reveal the interior workings, which is present in the &lt;a href=&#34;triptychreflection&#34; target=&#34;_blank&#34;&gt;Triptych Plus Reflective Overlay&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;perspective-project-perspectives&#34;&gt;&lt;a href=&#34;perspectives&#34; target=&#34;_blank&#34;&gt;Perspective Project&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;This link connects to my video interview with Ned Stuckey-French on composition and his composition process. The video essay, based around the recorded interview is featured, along with an additional reflection and provided links on the page.&lt;/p&gt;
+
+&lt;h3 id=&#34;below-are-three-selections-with-reflections-from-the-class-this-semester&#34;&gt;Below are three selections, with reflections, from the class this semester.&lt;/h3&gt;
+
+&lt;h3 id=&#34;selection-one-and-reflection-situating-composition-studies-selection1&#34;&gt;&lt;a href=&#34;selection1&#34; target=&#34;_blank&#34;&gt;Selection One and Reflection: Situating Composition Studies&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This selection is an SRR that examines the history and evolution of composition in universities.&lt;/p&gt;
+
+&lt;h3 id=&#34;selection-two-and-reflection-processing-assumptions-selection2&#34;&gt;&lt;a href=&#34;selection2&#34; target=&#34;_blank&#34;&gt;Selection Two and Reflection: Processing Assumptions&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This is a blog post that takes a different perspective on the development of composition as a discipline based on the research being done.&lt;/p&gt;
+
+&lt;h3 id=&#34;selection-three-and-reflection-writing-program-acronyms-considering-contexts-systems-and-locales-selection3&#34;&gt;&lt;a href=&#34;selection3&#34; target=&#34;_blank&#34;&gt;Selection Three and Reflection: Writing Program Acronyms: Considering Contexts, Systems, and Locales&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This SRR examines the history and taxonomies of different WAC/WID programs.&lt;/p&gt;
+
+&lt;h2 id=&#34;two-outside-artifact-selections&#34;&gt;Two Outside Artifact Selections&lt;/h2&gt;
+
+&lt;h3 id=&#34;exploratory-2-interest-and-inquiry-https-atplaywithcomposition-wordpress-com-exploratory-2-interest-and-inquiry&#34;&gt;&lt;a href=&#34;https://atplaywithcomposition.wordpress.com/exploratory-2-interest-and-inquiry/&#34; target=&#34;_blank&#34;&gt;Exploratory 2: Interest and Inquiry&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This is an assignment prompt from my 2135 class that I&amp;rsquo;m teaching this semester. I chose this because of the pedagogical connections between composition theory and what I am teaching. I also chose it because the prompt and activity was influenced by work in collaboration.&lt;/p&gt;
+
+&lt;h3 id=&#34;look-at-all-this-stuff-on-playing-printing-and-virtual-reality-in-the-digital-humanities-https-digitalscholars-wordpress-com-2017-02-12-look-at-all-this-stuff-on-playing-printing-and-virtual-reality-in-the-digital-humanities&#34;&gt;&lt;a href=&#34;https://digitalscholars.wordpress.com/2017/02/12/look-at-all-this-stuff-on-playing-printing-and-virtual-reality-in-the-digital-humanities/&#34; target=&#34;_blank&#34;&gt;Look at all this Stuff! On Playing, Printing, and Virtual Reality in the Digital Humanities&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This is a blog post that I composed as an introduction to a digital scholars meeting. This was a synthesis of the readings and materials for the week, and was situated within a very specific rhetorical ecology and responded to a set of exigencies. I also chose it due to the content of the meeting.&lt;/p&gt;
+
+&lt;h2 id=&#34;final-project-abstract-abstract&#34;&gt;&lt;a href=&#34;abstract&#34; target=&#34;_blank&#34;&gt;Final Project Abstract&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;This connects to my final project abstract, which involves a short study from my teaching this semester that looks at play, voice, and pedagogy, and seeks to study the efficacy of play in students use of voice in 2135. I am targeting SAMLA for the presentation.&lt;/p&gt;
+
+&lt;p&gt;Icons made by Freepik from &lt;a href=&#34;http://www.flaticon.com&#34; target=&#34;_blank&#34;&gt;http://www.flaticon.com&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Turkey, Kale, and Pepper Wraps</title>
-      <link>http://michaelhealy.space/recipes/2015-03-13-turkey-kale-and-pepper-wraps/</link>
-      <pubDate>Fri, 13 Mar 2015 16:54:11 +0000</pubDate>
+      <title>Final Project Abstract</title>
+      <link>https://michaelhealy.space/project/eportfolios/comptheory/abstract/</link>
+      <pubDate>Sun, 16 Apr 2017 22:20:18 +0000</pubDate>
       
-      <guid>http://michaelhealy.space/recipes/2015-03-13-turkey-kale-and-pepper-wraps/</guid>
-      <description>One thing that I have found very useful, being a GTA, full-time student, and a stay at home son, is to have lunches pre-prepared and packaged. I can&amp;rsquo;t make sammiches everyday, and making them ahead of time and keeping them in the fridge makes them soggy. I have turned to making wraps on Sunday to take throughout the week that use hearty veggies, some protein, and a whole bunch of delicious.</description>
-    </item>
-    
-    <item>
-      <title>Just Kidding, Life Happened, and I’d Rather Write About That—Part 2</title>
-      <link>http://michaelhealy.space/2015/03/just-kidding-life-happened-and-id-rather-write-about-that-part-2/</link>
-      <pubDate>Tue, 10 Mar 2015 21:18:06 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/2015/03/just-kidding-life-happened-and-id-rather-write-about-that-part-2/</guid>
-      <description>As I explained in my previous post, my grandmother passed away recently and I wanted to explore that. We had left off with me sitting with grandma in hospice.
-Mom leaned towards grandma and said, “do you remember your time at University?”
-Grandma perked up and looked towards my mother while a little smile turned up the corners of her mouth. My mom motioned for me to grab my iPad with the pictures I had received from the UNO archive.</description>
-    </item>
-    
-    <item>
-      <title>I Said this was going to be a food blog didn’t I?— Just Kidding, Life happened and my Grandmother Died, I’d rather Write about that—Part 1</title>
-      <link>http://michaelhealy.space/2015/03/i-said-this-was-going-to-be-a-food-blog-didnt-i-just-kidding-life-happened-and-my-grandmother-died-id-rather-write-about-that-part-1/</link>
-      <pubDate>Tue, 03 Mar 2015 16:48:01 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/2015/03/i-said-this-was-going-to-be-a-food-blog-didnt-i-just-kidding-life-happened-and-my-grandmother-died-id-rather-write-about-that-part-1/</guid>
-      <description>I would like to spend some time here exploring the sickness and death of my grandmother and how being a stay-at-home son affected that experience. I hope that by meaningfully reflecting I can share useful insights into dealing with grief. The ultimate purpose of the blog was to give some understanding into being a stay at home son, and to bring some dignity to moving back home. I feel that this can be illuminating into the shifting family dynamics and responsibilities involved in moving home as an adult as well as dealing with the death of a grandparent.</description>
-    </item>
-    
-    <item>
-      <title>No Room to Call my Own – Or Why my Bed is in the Family Room</title>
-      <link>http://michaelhealy.space/2015/03/no-room-to-call-my-own-or-why-my-bed-is-in-the-family-room/</link>
-      <pubDate>Tue, 03 Mar 2015 06:05:47 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/2015/03/no-room-to-call-my-own-or-why-my-bed-is-in-the-family-room/</guid>
-      <description>I came home yesterday to find my mother waist deep in my brother’s room attempting to clean out the smell of stale soda, vaping (roasted fruit-loop marshmallow), and dog. She had cleared out some space and was vacuuming an aisle between piles of clothes and computer parts. When I asked what she was doing she responded that the room was gross, reeked of dog, and “anyway, it’s my house.”
-My brother had left for the afternoon and my mother had gone to let his dog out when she had reached her breaking point.</description>
-    </item>
-    
-    <item>
-      <title>Meet my Dad and his Magical Made-up Statistics!</title>
-      <link>http://michaelhealy.space/2015/03/five-percent-love-it-the-rest-i-dunno/</link>
-      <pubDate>Tue, 03 Mar 2015 05:24:37 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/2015/03/five-percent-love-it-the-rest-i-dunno/</guid>
-      <description>Last week was my mom’s 57th birthday. My family isn’t big on birthdays except that it is an excuse to go out to eat. Jessi and I met my parents after we got out of class. Dad had a beer and mom already had a glass of wine. We sat down and discussed our days while waiting for my brother to show up. Once he showed up and ordered drinks we settling in for an appetizer of bruschetta (good) and an order of brussel sprouts (holy SHIT amazing!</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://michaelhealy.space/about/</link>
-      <pubDate>Tue, 03 Mar 2015 04:55:45 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/about/</guid>
-      <description>Hello, my name is Michael. I like to run, cook, drink coffee, bake bread, and brew beer. I am a first year PhD in Rhetoric and Composition at Florida State University. Prior to that I received my MA at The University of Nebraska at Omaha and my BA in English from Creighton University. I am interested in pedagogy, creative nonfiction, rhetoric, visual rhetoric, design, play, TA training, and many other things that I’m unsure of.</description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>http://michaelhealy.space/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/</guid>
-      <description>Welcome to my personal space web space. Here you can find my blog, recipes, and to things that I&amp;rsquo;ve composed. There is also a link to my academic space, which details my publications, presentations, research, and class projects. I&amp;rsquo;ve set up the two seperately so that each has a unique look and feel, and that I can best keep track of the two.
-So, welcome, have a look around. I&amp;rsquo;ll be adding some bread recipes soon, as well as updating some of the rest.</description>
+      <guid>https://michaelhealy.space/project/eportfolios/comptheory/abstract/</guid>
+      <description>&lt;p&gt;For my final project I am proposing a conference concurrent-session presentation that uses research from my classroom this semester. I am studying the efficacy of play as an organizational and pedagogical theory in ENC 2135. I am interested in students; perceptions on play within the composition classroom, especially in the development of voice and agency in their writing. I have anecdotally seen it as a positive influence through my teaching, but I want something more empirical that I can build from.&lt;/p&gt;
+
+&lt;p&gt;To do the study I have prepared a materials release form and a short survey to distribute to students. I have arranged for the distribution and collection of these materials. I will use these responses, student reflections, and student evaluations to read and code for play, voice, and agency. I will be focusing on a peer review exercise that has students speed date a draft, a collaborative activity that asks students to inhabit inquiry, and the semester reflection letter for their ePortfolios. I will develop a coding scheme (at this point I&amp;rsquo;m unsure if it will be deductive or inductive) to examine the written materials. I will use the coding, surveys, and my own observations to help triangulate the data.&lt;/p&gt;
+
+&lt;p&gt;I want to see first, what students think about a play infused classroom through these activities, and second, to see if there is evidence of efficacy within their reflective writings, evaluations, and surveys. I am developing a conference proposal based on this study for SAMLA, with two potential panels of interest: &lt;em&gt;Voices From The Twenty-First-Century College Composition Classroom&lt;/em&gt; Or &lt;em&gt;Critical Thinking In The Rhet-Comp Classroom&lt;/em&gt; I see this resonating with either of these panels, but I am also willing to submit through the general call for papers.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
