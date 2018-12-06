@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Michael Healy&#39;s ePortfolio</title>
+    <link>https://michaelhealy.space/categories/teaching/</link>
+    <description>Recent content in Teaching on Michael Healy&#39;s ePortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Oct 2018 20:07:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://michaelhealy.space/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaching Philosophy</title>
+      <link>https://michaelhealy.space/blog/2018/10/28/philosophy/</link>
+      <pubDate>Sun, 28 Oct 2018 20:07:08 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/blog/2018/10/28/philosophy/</guid>
+      <description>Old - To Update I view writing as the extension of thought into a physical form. Writing is not only able to convey information it also creates and changes meaning. Writing is in dialogue with the writer, the audience, and the broader context of culture and society. I want students to be able to enter into this dialogue as full participants, not just people who just consume and regurgitate the thoughts of others.</description>
+    </item>
+    
+    <item>
+      <title>College Composition FSU</title>
+      <link>https://michaelhealy.space/blog/2018/10/28/college-composition/</link>
+      <pubDate>Sun, 28 Oct 2018 20:02:43 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/blog/2018/10/28/college-composition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
