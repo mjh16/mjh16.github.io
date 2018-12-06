@@ -1,203 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Michael Healy</title>
+    <title>Tags on Michael Healy&#39;s ePortfolio</title>
     <link>https://michaelhealy.space/tags/</link>
-    <description>Recent content in Tags on Michael Healy</description>
+    <description>Recent content in Tags on Michael Healy&#39;s ePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Michael Healy</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Oct 2018 20:09:19 -0400</lastBuildDate>
     
 	<atom:link href="https://michaelhealy.space/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://michaelhealy.space/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://michaelhealy.space/tags/</link>
+      <pubDate>Sun, 28 Oct 2018 20:09:19 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>18th-century-novel</title>
-      <link>https://michaelhealy.space/tags/18th-century-novel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/18th-century-novel/</guid>
+      <guid>https://michaelhealy.space/tags/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Annotated-bib</title>
-      <link>https://michaelhealy.space/tags/annotated-bib/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Administration</title>
+      <link>https://michaelhealy.space/tags/administration/</link>
+      <pubDate>Sun, 28 Oct 2018 20:07:08 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/tags/annotated-bib/</guid>
+      <guid>https://michaelhealy.space/tags/administration/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bibliography</title>
-      <link>https://michaelhealy.space/tags/bibliography/</link>
-      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
+      <title>Cc</title>
+      <link>https://michaelhealy.space/tags/cc/</link>
+      <pubDate>Sun, 28 Oct 2018 20:02:43 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/tags/bibliography/</guid>
+      <guid>https://michaelhealy.space/tags/cc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Composition</title>
-      <link>https://michaelhealy.space/tags/composition/</link>
-      <pubDate>Mon, 01 May 2017 12:00:00 +0000</pubDate>
+      <title>Conference</title>
+      <link>https://michaelhealy.space/tags/conference/</link>
+      <pubDate>Sun, 21 Oct 2018 23:01:55 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/tags/composition/</guid>
+      <guid>https://michaelhealy.space/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Curriculum</title>
-      <link>https://michaelhealy.space/tags/curriculum/</link>
-      <pubDate>Mon, 12 Jun 2017 10:25:25 -0400</pubDate>
+      <title>Enc2315</title>
+      <link>https://michaelhealy.space/tags/enc2315/</link>
+      <pubDate>Sun, 28 Oct 2018 20:02:43 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/tags/curriculum/</guid>
+      <guid>https://michaelhealy.space/tags/enc2315/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DIS</title>
-      <link>https://michaelhealy.space/tags/dis/</link>
-      <pubDate>Mon, 12 Jun 2017 10:25:25 -0400</pubDate>
+      <title>Fyc</title>
+      <link>https://michaelhealy.space/tags/fyc/</link>
+      <pubDate>Sun, 28 Oct 2018 20:02:43 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/tags/dis/</guid>
+      <guid>https://michaelhealy.space/tags/fyc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Digital-humanities</title>
-      <link>https://michaelhealy.space/tags/digital-humanities/</link>
-      <pubDate>Sun, 14 May 2017 21:58:49 -0400</pubDate>
+      <title>National</title>
+      <link>https://michaelhealy.space/tags/national/</link>
+      <pubDate>Sun, 21 Oct 2018 23:01:55 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/tags/digital-humanities/</guid>
+      <guid>https://michaelhealy.space/tags/national/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Discussion</title>
-      <link>https://michaelhealy.space/tags/discussion/</link>
-      <pubDate>Mon, 12 Jun 2017 10:25:25 -0400</pubDate>
+      <title>Philosophy</title>
+      <link>https://michaelhealy.space/tags/philosophy/</link>
+      <pubDate>Sun, 28 Oct 2018 20:07:08 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/tags/discussion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EPortflio</title>
-      <link>https://michaelhealy.space/tags/eportflio/</link>
-      <pubDate>Sun, 01 May 2016 12:00:00 +0000</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/eportflio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EPortfolio</title>
-      <link>https://michaelhealy.space/tags/eportfolio/</link>
-      <pubDate>Mon, 01 May 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/eportfolio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Literature</title>
-      <link>https://michaelhealy.space/tags/literature/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/literature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minimal-computing</title>
-      <link>https://michaelhealy.space/tags/minimal-computing/</link>
-      <pubDate>Sat, 20 May 2017 14:20:00 -0400</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/minimal-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Organization</title>
-      <link>https://michaelhealy.space/tags/organization/</link>
-      <pubDate>Sat, 20 May 2017 14:20:00 -0400</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/organization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Planing</title>
-      <link>https://michaelhealy.space/tags/planing/</link>
-      <pubDate>Sat, 20 May 2017 14:20:00 -0400</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/planing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Site</title>
-      <link>https://michaelhealy.space/tags/site/</link>
-      <pubDate>Sat, 20 May 2017 14:20:00 -0400</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/site/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TA</title>
-      <link>https://michaelhealy.space/tags/ta/</link>
-      <pubDate>Mon, 12 Jun 2017 10:25:25 -0400</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/ta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag2</title>
-      <link>https://michaelhealy.space/tags/tag2/</link>
-      <pubDate>Sun, 01 May 2016 12:00:00 +0000</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/tag2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teacher-Prep</title>
-      <link>https://michaelhealy.space/tags/teacher-prep/</link>
-      <pubDate>Mon, 12 Jun 2017 10:25:25 -0400</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/teacher-prep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WPA</title>
-      <link>https://michaelhealy.space/tags/wpa/</link>
-      <pubDate>Mon, 12 Jun 2017 10:25:25 -0400</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/wpa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WPA-DIS</title>
-      <link>https://michaelhealy.space/tags/wpa-dis/</link>
-      <pubDate>Mon, 12 Jun 2017 10:25:25 -0400</pubDate>
-      
-      <guid>https://michaelhealy.space/tags/wpa-dis/</guid>
+      <guid>https://michaelhealy.space/tags/philosophy/</guid>
       <description></description>
     </item>
     
