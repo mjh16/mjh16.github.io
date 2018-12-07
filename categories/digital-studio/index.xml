@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Studio on Michael Healy&#39;s ePortfolio</title>
+    <link>https://michaelhealy.space/categories/digital-studio/</link>
+    <description>Recent content in Digital Studio on Michael Healy&#39;s ePortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Oct 2018 20:08:56 -0400</lastBuildDate>
+    
+	<atom:link href="https://michaelhealy.space/categories/digital-studio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Studio Consultant</title>
+      <link>https://michaelhealy.space/blog/2018/10/28/digital-studio/</link>
+      <pubDate>Sun, 28 Oct 2018 20:08:56 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/blog/2018/10/28/digital-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johnston Digital Studio Coordinator 2018-2019</title>
+      <link>https://michaelhealy.space/blog/2018/10/28/digital-studio/</link>
+      <pubDate>Sun, 28 Oct 2018 20:06:50 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/blog/2018/10/28/digital-studio/</guid>
+      <description> Information about and work with the digital studio will go here:
+Consultant Coordinator </description>
+    </item>
+    
+  </channel>
+</rss>

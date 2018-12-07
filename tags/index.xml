@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Michael Healy&#39;s ePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Dec 2018 22:32:43 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 07 Dec 2018 10:59:13 -0500</lastBuildDate>
     
 	<atom:link href="https://michaelhealy.space/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>https://michaelhealy.space/tags/</link>
-      <pubDate>Thu, 06 Dec 2018 22:32:43 -0500</pubDate>
+      <pubDate>Fri, 07 Dec 2018 10:59:13 -0500</pubDate>
       
       <guid>https://michaelhealy.space/tags/</guid>
       <description></description>
@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>Composition</title>
+      <link>https://michaelhealy.space/tags/composition/</link>
+      <pubDate>Sun, 28 Oct 2018 20:09:19 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Conference</title>
       <link>https://michaelhealy.space/tags/conference/</link>
       <pubDate>Sat, 07 Oct 2017 23:01:55 -0400</pubDate>
@@ -66,6 +75,51 @@
     </item>
     
     <item>
+      <title>Cv</title>
+      <link>https://michaelhealy.space/tags/cv/</link>
+      <pubDate>Fri, 07 Dec 2018 10:59:13 -0500</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Spaces</title>
+      <link>https://michaelhealy.space/tags/digital-spaces/</link>
+      <pubDate>Sun, 07 Jan 2018 09:13:22 -0500</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/digital-spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ds</title>
+      <link>https://michaelhealy.space/tags/ds/</link>
+      <pubDate>Sun, 28 Oct 2018 20:08:56 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enc1101</title>
+      <link>https://michaelhealy.space/tags/enc1101/</link>
+      <pubDate>Fri, 07 Dec 2018 09:13:01 -0500</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/enc1101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enc2135</title>
+      <link>https://michaelhealy.space/tags/enc2135/</link>
+      <pubDate>Sun, 07 Jan 2018 09:13:22 -0500</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/enc2135/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Enc2315</title>
       <link>https://michaelhealy.space/tags/enc2315/</link>
       <pubDate>Sun, 28 Oct 2018 20:02:43 -0400</pubDate>
@@ -75,11 +129,29 @@
     </item>
     
     <item>
+      <title>Enc3021</title>
+      <link>https://michaelhealy.space/tags/enc3021/</link>
+      <pubDate>Fri, 31 Aug 2018 09:20:14 -0500</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/enc3021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fyc</title>
       <link>https://michaelhealy.space/tags/fyc/</link>
-      <pubDate>Sun, 28 Oct 2018 20:02:43 -0400</pubDate>
+      <pubDate>Sun, 28 Oct 2018 20:09:19 -0400</pubDate>
       
       <guid>https://michaelhealy.space/tags/fyc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genre</title>
+      <link>https://michaelhealy.space/tags/genre/</link>
+      <pubDate>Sun, 07 Jan 2018 09:13:22 -0500</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/genre/</guid>
       <description></description>
     </item>
     
@@ -104,7 +176,7 @@
     <item>
       <title>Pedagogy</title>
       <link>https://michaelhealy.space/tags/pedagogy/</link>
-      <pubDate>Sun, 28 Oct 2018 20:02:52 -0400</pubDate>
+      <pubDate>Sat, 24 Mar 2018 10:43:06 -0500</pubDate>
       
       <guid>https://michaelhealy.space/tags/pedagogy/</guid>
       <description></description>
@@ -116,6 +188,15 @@
       <pubDate>Thu, 06 Dec 2018 20:07:08 -0400</pubDate>
       
       <guid>https://michaelhealy.space/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Place</title>
+      <link>https://michaelhealy.space/tags/place/</link>
+      <pubDate>Sat, 24 Mar 2018 10:43:06 -0500</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/place/</guid>
       <description></description>
     </item>
     
@@ -140,7 +221,7 @@
     <item>
       <title>Rhetoric</title>
       <link>https://michaelhealy.space/tags/rhetoric/</link>
-      <pubDate>Sun, 28 Oct 2018 20:02:52 -0400</pubDate>
+      <pubDate>Fri, 31 Aug 2018 09:20:14 -0500</pubDate>
       
       <guid>https://michaelhealy.space/tags/rhetoric/</guid>
       <description></description>
@@ -161,6 +242,15 @@
       <pubDate>Sun, 15 Mar 2015 20:07:08 -0400</pubDate>
       
       <guid>https://michaelhealy.space/tags/rnf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tft</title>
+      <link>https://michaelhealy.space/tags/tft/</link>
+      <pubDate>Sun, 07 Jan 2018 09:13:22 -0500</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/tft/</guid>
       <description></description>
     </item>
     

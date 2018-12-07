@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enc1101 on Michael Healy&#39;s ePortfolio</title>
+    <link>https://michaelhealy.space/tags/enc1101/</link>
+    <description>Recent content in Enc1101 on Michael Healy&#39;s ePortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Dec 2018 09:13:01 -0500</lastBuildDate>
+    
+	<atom:link href="https://michaelhealy.space/tags/enc1101/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ENC 1101 - Freshman Composition and Rhetoric</title>
+      <link>https://michaelhealy.space/blog/2018/12/07/enc1101/</link>
+      <pubDate>Fri, 07 Dec 2018 09:13:01 -0500</pubDate>
+      
+      <guid>https://michaelhealy.space/blog/2018/12/07/enc1101/</guid>
+      <description>Materials and feedback from my teaching of ENC 1101.
+Includes course sites, evaluation materials, lessons examples, and course materials.</description>
+    </item>
+    
+    <item>
+      <title>College Composition @ FSU</title>
+      <link>https://michaelhealy.space/blog/2018/10/28/college-composition/</link>
+      <pubDate>Sun, 28 Oct 2018 20:02:43 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/blog/2018/10/28/college-composition/</guid>
+      <description>Have taught within the college composition program at UNO and FSU. Taught English Composition I and Composition II at UNO. Have taught ENC 1101 and ENC 2135 at FSU. My pedagogy focuses on exploration, observation, play, and collaboration inside and outside the class.</description>
+    </item>
+    
+  </channel>
+</rss>
