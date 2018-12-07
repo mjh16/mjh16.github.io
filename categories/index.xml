@@ -6,26 +6,71 @@
     <description>Recent content in Categories on Michael Healy&#39;s ePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Oct 2018 20:09:19 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 28 Oct 2018 20:08:56 -0400</lastBuildDate>
     
 	<atom:link href="https://michaelhealy.space/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://michaelhealy.space/categories/</link>
-      <pubDate>Sun, 28 Oct 2018 20:09:19 -0400</pubDate>
+      <title>Administration</title>
+      <link>https://michaelhealy.space/categories/administration/</link>
+      <pubDate>Sun, 28 Oct 2018 20:08:56 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/categories/</guid>
+      <guid>https://michaelhealy.space/categories/administration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>https://michaelhealy.space/categories/consulting/</link>
+      <pubDate>Sun, 28 Oct 2018 20:08:56 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/categories/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ds</title>
+      <link>https://michaelhealy.space/categories/ds/</link>
+      <pubDate>Sun, 28 Oct 2018 20:06:50 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/categories/ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Major</title>
+      <link>https://michaelhealy.space/categories/major/</link>
+      <pubDate>Sun, 28 Oct 2018 20:02:52 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/categories/major/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation</title>
       <link>https://michaelhealy.space/categories/presentation/</link>
-      <pubDate>Sun, 21 Oct 2018 23:01:55 -0400</pubDate>
+      <pubDate>Sun, 28 Oct 2018 20:07:54 -0400</pubDate>
       
       <guid>https://michaelhealy.space/categories/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scholarship</title>
+      <link>https://michaelhealy.space/categories/scholarship/</link>
+      <pubDate>Sun, 28 Oct 2018 20:07:54 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/categories/scholarship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://michaelhealy.space/categories/service/</link>
+      <pubDate>Sun, 28 Oct 2018 20:09:19 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/categories/service/</guid>
       <description></description>
     </item>
     
@@ -35,6 +80,24 @@
       <pubDate>Sun, 28 Oct 2018 20:07:08 -0400</pubDate>
       
       <guid>https://michaelhealy.space/categories/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutoring</title>
+      <link>https://michaelhealy.space/categories/tutoring/</link>
+      <pubDate>Thu, 28 Aug 2014 20:08:22 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/categories/tutoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://michaelhealy.space/categories/writing/</link>
+      <pubDate>Thu, 06 Dec 2018 22:32:43 -0500</pubDate>
+      
+      <guid>https://michaelhealy.space/categories/writing/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Michael Healy&#39;s ePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Oct 2018 20:09:19 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Dec 2018 22:32:43 -0500</lastBuildDate>
     
 	<atom:link href="https://michaelhealy.space/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>https://michaelhealy.space/tags/</link>
-      <pubDate>Sun, 28 Oct 2018 20:09:19 -0400</pubDate>
+      <pubDate>Thu, 06 Dec 2018 22:32:43 -0500</pubDate>
       
       <guid>https://michaelhealy.space/tags/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Administration</title>
       <link>https://michaelhealy.space/tags/administration/</link>
-      <pubDate>Sun, 28 Oct 2018 20:07:08 -0400</pubDate>
+      <pubDate>Thu, 06 Dec 2018 20:07:08 -0400</pubDate>
       
       <guid>https://michaelhealy.space/tags/administration/</guid>
       <description></description>
@@ -44,6 +44,15 @@
       <pubDate>Sun, 21 Oct 2018 23:01:55 -0400</pubDate>
       
       <guid>https://michaelhealy.space/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>https://michaelhealy.space/tags/curriculum/</link>
+      <pubDate>Sun, 28 Oct 2018 20:02:52 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/curriculum/</guid>
       <description></description>
     </item>
     
@@ -75,11 +84,47 @@
     </item>
     
     <item>
+      <title>Pedagogy</title>
+      <link>https://michaelhealy.space/tags/pedagogy/</link>
+      <pubDate>Sun, 28 Oct 2018 20:02:52 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/pedagogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Philosophy</title>
       <link>https://michaelhealy.space/tags/philosophy/</link>
-      <pubDate>Sun, 28 Oct 2018 20:07:08 -0400</pubDate>
+      <pubDate>Thu, 06 Dec 2018 20:07:08 -0400</pubDate>
       
       <guid>https://michaelhealy.space/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Program Liaison</title>
+      <link>https://michaelhealy.space/tags/program-liaison/</link>
+      <pubDate>Sun, 28 Oct 2018 20:09:10 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/program-liaison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhetoric</title>
+      <link>https://michaelhealy.space/tags/rhetoric/</link>
+      <pubDate>Sun, 28 Oct 2018 20:02:52 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/rhetoric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhetoric and Composition</title>
+      <link>https://michaelhealy.space/tags/rhetoric-and-composition/</link>
+      <pubDate>Sun, 28 Oct 2018 20:09:10 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/tags/rhetoric-and-composition/</guid>
       <description></description>
     </item>
     
