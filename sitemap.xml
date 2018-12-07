@@ -33,26 +33,6 @@
   </url>
   
   <url>
-    <loc>https://michaelhealy.space/blog/2018/10/28/samla-2017/</loc>
-    <lastmod>2018-10-28T20:07:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelhealy.space/blog/2018/10/28/fems-rhets-2015/</loc>
-    <lastmod>2018-10-28T20:07:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelhealy.space/blog/2018/10/28/cccc-2016/</loc>
-    <lastmod>2018-10-28T20:07:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelhealy.space/blog/2018/10/28/cccc-2015/</loc>
-    <lastmod>2018-10-28T20:07:08-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michaelhealy.space/blog/2018/10/28/digital-studio/</loc>
     <lastmod>2018-10-28T20:06:50-04:00</lastmod>
   </url>
@@ -88,18 +68,38 @@
   </url>
   
   <url>
-    <loc>https://michaelhealy.space/blog/2018/10/21/fems-rhets-2017/</loc>
-    <lastmod>2018-10-21T23:01:55-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michaelhealy.space/blog/presentations/</loc>
     <lastmod>2018-10-21T22:56:58-04:00</lastmod>
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/blog/2017/10/24/samla-2017/</loc>
+    <lastmod>2017-10-24T20:07:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/blog/2017/10/07/fems-rhets-2017/</loc>
+    <lastmod>2017-10-07T23:01:55-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/blog/2017/03/17/cccc-2017/</loc>
     <lastmod>2017-03-17T13:52:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/blog/2016/04/06/cccc-2016/</loc>
+    <lastmod>2016-04-06T20:07:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/blog/2015/10/30/fems-rhets-2015/</loc>
+    <lastmod>2015-10-30T20:07:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/blog/2015/03/15/cccc-2015/</loc>
+    <lastmod>2015-03-15T20:07:08-04:00</lastmod>
   </url>
   
   <url>
@@ -114,14 +114,20 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/categories/administration/</loc>
+    <lastmod>2018-10-28T20:08:56-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/tags/administration/</loc>
     <lastmod>2018-12-06T20:07:08-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michaelhealy.space/categories/administration/</loc>
-    <lastmod>2018-10-28T20:08:56-04:00</lastmod>
+    <loc>https://michaelhealy.space/tags/archive/</loc>
+    <lastmod>2015-10-30T20:07:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -145,7 +151,7 @@
   
   <url>
     <loc>https://michaelhealy.space/tags/conference/</loc>
-    <lastmod>2018-10-21T23:01:55-04:00</lastmod>
+    <lastmod>2017-10-07T23:01:55-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -180,6 +186,12 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/tags/grandma/</loc>
+    <lastmod>2015-10-30T20:07:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/categories/major/</loc>
     <lastmod>2018-10-28T20:02:52-04:00</lastmod>
     <priority>0</priority>
@@ -193,7 +205,7 @@
   
   <url>
     <loc>https://michaelhealy.space/tags/national/</loc>
-    <lastmod>2018-10-21T23:01:55-04:00</lastmod>
+    <lastmod>2017-03-17T13:52:26-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -211,13 +223,19 @@
   
   <url>
     <loc>https://michaelhealy.space/categories/presentation/</loc>
-    <lastmod>2018-10-28T20:07:54-04:00</lastmod>
+    <lastmod>2017-10-24T20:07:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://michaelhealy.space/tags/program-liaison/</loc>
     <lastmod>2018-10-28T20:09:10-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/tags/qrn/</loc>
+    <lastmod>2016-04-06T20:07:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -234,8 +252,14 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/tags/rnf/</loc>
+    <lastmod>2015-03-15T20:07:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/categories/scholarship/</loc>
-    <lastmod>2018-10-28T20:07:54-04:00</lastmod>
+    <lastmod>2017-10-24T20:07:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
