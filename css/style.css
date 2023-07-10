@@ -1,0 +1,14 @@
+h1 {
+    color: yellowgreen;
+    font-size: 3em;
+    margin-bottom: 2rem;
+}
+
+p {
+    color: blue;
+}
+
+h2 {
+    color: darkslateblue;
+    margin-bottom: 0;
+}
