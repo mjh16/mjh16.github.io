@@ -23,6 +23,26 @@ a:link {
     color: #ff383f;
 }
 
+a:visited {
+    color: #bf2a2f;
+}
+
 a:hover {
     color: #32bfff;
+}
+
+footer ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+footer li {
+    font-size: 14px;
+    margin: 0 2em;
+    display: inline-block;
+    text-align: center;
+}
+
+footer p {
+    margin: 0.5em;
 }
