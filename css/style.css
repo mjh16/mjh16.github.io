@@ -1,14 +1,28 @@
+body {
+    background-color: whitesmoke;
+}
+
 h1 {
-    color: yellowgreen;
-    font-size: 3em;
+    color: #5f9cb8;
+    font-size: 4em;
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 p {
-    color: blue;
+    color: black;
 }
 
 h2 {
-    color: darkslateblue;
-    margin-bottom: 0;
+    color: #5f9cb8;
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+
+a:link {
+    color: #ff383f;
+}
+
+a:hover {
+    color: #32bfff;
 }
