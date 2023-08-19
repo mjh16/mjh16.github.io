@@ -8,17 +8,17 @@ So far I have a version of the color scheme, layout, and general design.
 - [x] Initial Layout
 - [x] Initial desing
 - [x] 11ty templates
-- [] Home page content
-- [] Child page content
-  - [] About
-  - [] Now
-  - [] Research
-  - [] Teaching
-  - [] Service
-  - [] Writing
-- [] PDF of current CV with inline preview
-- [] UX testing
+- [ ] Home page content
+- [ ] Child page content
+  - [ ] About
+  - [ ] Now
+  - [ ] Research
+  - [ ] Teaching
+  - [ ] Service
+  - [ ] Writing
+- [ ] PDF of current CV with inline preview
+- [ ] UX testing
 
 ## Future Plans  
-- [] Blog
-- [] More regular updates
+- [ ] Blog
+- [ ] More regular updates
