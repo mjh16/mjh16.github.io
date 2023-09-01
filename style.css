@@ -24,12 +24,15 @@ hover, focus = #22babb
 hover variation, nav = #9ef8ee
 */
 
-h1,
+h1 {
+    font-family: "kristal-opencaps", serif;
+    font-weight: 200;
+}
+
 h2,
 h3 {
-    font-family: "study", serif;
+    font-family: "kristal", serif;
     font-weight: 700;
-    font-style: normal;
 }
 
 body > * {
@@ -51,10 +54,6 @@ body {
 h1 {
     font-size: 1.75rem;
     text-align: left;
-    text-decoration: underline;
-    text-decoration-color: var(--light-orange);
-    text-decoration-thickness: 0.05em;
-    text-underline-offset: 0.25em;
 }
 
 h2 {
@@ -74,7 +73,6 @@ p > b {
 }
 
 header nav {
-    font-family: "study", serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -85,13 +83,20 @@ nav {
     justify-content: space-between;
 }
 
+nav a,
+a:visited,
+a:link {
+    text-decoration: none;
+    color: inherit;
+}
+
 nav ul {
     list-style-type: none;
     margin: 1rem 1.5rem;
 }
 
 nav li {
-    font-size: 0.9rem;
+    font-size: 1em;
     display: inline;
     margin: 0.5em;
     align-self: flex-end;
@@ -105,39 +110,29 @@ nav p {
 }
 
 nav h1 {
-    font-size: 3rem;
-    margin: 0;
-    text-decoration: none;
+    font-size: 2.5em;
+    margin: 0 0 0 0.2rem;
+    text-decoration-line: none;
     color: var(--main-text-color);
 }
 
 nav h1:hover {
+    color: var(--light-orange);
+}
+
+nav li:hover {
     text-decoration: underline;
     text-decoration-color: var(--light-teal);
-    text-decoration-thickness: 0.1em;
-    text-underline-offset: 0.1em;
+    text-decoration-thickness: 0.15em;
+    text-underline-offset: 0.25em;
 }
 
 .name-header {
     display: inline;
 }
 
-nav li:hover {
-    text-decoration: underline;
-    text-decoration-color: var(--light-teal);
-    text-decoration-thickness: 0.2em;
-    text-underline-offset: 0.33em;
-}
-
-nav a,
-a:visited,
-a:link {
-    text-decoration: none;
-    color: inherit;
-}
-
 .name-header p a:hover {
-    color: var(--light-teal);
+    color: var(--light-orange);
 }
 
 main a:link,
@@ -164,7 +159,7 @@ main ul {
 }
 
 main {
-    margin: auto 0.5rem 2rem 0.5rem;
+    margin: auto 0 2rem 0.5rem;
 }
 
 main p {
@@ -172,13 +167,14 @@ main p {
 }
 
 main img {
-    max-width: 50vw;
+    max-width: 55vw;
     max-height: 68vh;
+    grid-column: 2;
     object-fit: scale-down;
     position: relative;
-    float: inline-end;
-    right: 0;
+    float: right;
     padding: 0;
+    margin: 0;
 }
 
 footer {
