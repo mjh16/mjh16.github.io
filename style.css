@@ -135,13 +135,11 @@ nav li:hover {
     color: var(--light-orange);
 }
 
-main a:link,
-footer a:link {
+main a:link {
     color: var(--dark-teal);
 }
 
-main a:visited,
-footer a:visited {
+main a:visited {
     color: var(--dark-orange);
 }
 
@@ -194,6 +192,14 @@ footer li {
 
 footer p {
     margin: 0.5em;
+    text-decoration: none;
+}
+
+footer a,
+a:link,
+script {
+    text-decoration: none;
+    color: black;
 }
 
 .page-title {
