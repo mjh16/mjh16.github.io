@@ -75,7 +75,6 @@ p > b {
 
 header nav {
     font-family: "swear-display", serif;
-    font-weight: 400;
     font-style: normal;
 }
 
@@ -99,6 +98,7 @@ nav ul {
 
 nav li {
     font-size: 1em;
+    font-weight: 500;
     display: inline;
     margin: 0.5em;
     align-self: flex-end;
@@ -107,6 +107,7 @@ nav li {
 nav p {
     color: var(--dark-teal);
     font-size: 0.8em;
+    font-weight: 400;
     margin: 0.3em;
     text-align: center;
 }
