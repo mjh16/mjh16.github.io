@@ -25,14 +25,15 @@ hover variation, nav = #9ef8ee
 */
 
 h1 {
-    font-family: "kristal-opencaps", serif;
-    font-weight: 200;
+    font-family: "swear-display", serif;
+    font-weight: 700;
+    font-style: normal;
 }
 
 h2,
 h3 {
-    font-family: "kristal", serif;
-    font-weight: 700;
+    font-family: "swear-display", serif;
+    font-weight: 500;
 }
 
 body > * {
