@@ -76,7 +76,7 @@ p > b {
 }
 
 header nav {
-    font-family: "swear-display", serif;
+    font-weight: 400;
     font-style: normal;
 }
 
@@ -98,23 +98,24 @@ a:link {
 
 nav ul {
     list-style-type: none;
-    margin: 1rem 1.5rem;
+    margin: auto 1em;
+    text-align: right;
 }
 
 nav li {
     font-size: 1em;
-    font-weight: 500;
     display: inline;
     margin: 0.5em;
-    align-self: flex-end;
+    align-content: flex-end;
+    text-align: right;
 }
 
 nav p {
     color: var(--dark-teal);
     font-size: 0.8em;
-    font-weight: 400;
     margin: 0.3em;
-    text-align: center;
+    text-align: left;
+    align-items: flex-start;
 }
 
 nav h1 {
@@ -170,14 +171,15 @@ main {
 }
 
 main p {
-    margin: auto 1em 0.5rem 0.5em;
+    margin: auto 2em 0.5rem 1em;
 }
 
 main img {
-    max-width: 38vw;
-    max-height: 65vh;
+    max-width: 40vw;
+    max-height: 60vh;
     object-fit: scale-down;
-    margin: 0;
+    margin: 0 0 0 1em;
+    padding: 0;
 }
 
 main picture {
@@ -216,4 +218,20 @@ script {
     font-size: 2rem;
     text-align: center;
     text-decoration: none;
+}
+
+.home-page {
+    margin-top: 5%;
+}
+
+.home-page p {
+    text-indent: 0;
+}
+
+.home-page a:visited {
+    color: inherit;
+}
+
+.home-page a:hover {
+    color: var(--light-orange);
 }
