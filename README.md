@@ -1,5 +1,5 @@
 # ePortfolio
-New ePortfolio Deployment Git. This is the page from which the whole site will be hosted. Just the static files.
+Static files for ePortfolio. Use as a backup/alternative space.
 
 ## Progress
 So far I have a version of the color scheme, layout, and general design.
